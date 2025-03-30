@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello. 
 
-<!--
-**myopicOracle/myopicOracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub 👋
 
-Here are some ideas to get you started:
+Former Jedi economist and Hutt clan banker, now turned coder. Since deciding to make the switch, I've immersed myself in coding bootcamps, certifications, and projects, building skills in **web development**, **machine learning**, and **data analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **Quick Highlights**:
+- Proficient in **HTML/CSS**, **JavaScript**, **React**, **Node.js**, **SQL**, **R**
+- Currently learning **Python**, **Solidity**, **Next.js**, **TypeScript**, **Tailwind**
+- Exploring **blockchain tech**, **smart contracts**, **cloud architecture**, and **MLOps**
+- Holder of **Microsoft Azure AI-900 Certificate** (IBM Data Analyst Professional Certification incoming!)
+
+### 🔭 I’m currently working on  
+- A sustainable finance project
+- [Voluntary Carbon Markets](https://yuccapalms.org/)
+
+### 👯 I’m looking to collaborate on  
+- Decentralized exchange on layer 2 protocol
+- [carbonxchange.ai](https://carbonxchange.ai/)
+
+### 📫 How to reach me  
+- *[linkedin.com/in/xiagary](linkedin.com/in/xiagary)*  
+- *[garebearcodes@gmail.com](garebearcodes@gmail.com)*  
+- *[@myopicOracle](https://github.com/myopicOracle)*  
+
+---
+
+> *May the code be with you.*
