@@ -28,6 +28,10 @@ Full-stack developer with a passion for building practical solutions that solve 
 ### YummyBuy E-Commerce Platform
 *Custom e-commerce solution for local business*
 
+[**Live Site**](https://www.yummybuy.ca/)
+- Create an account using SMS verification
+- Database: Cloud Firestore & Storage
+
 ![YummyBuy Screenshot](assets/yummybuy-p5.js-landing-page.png)
 
 Built for a bakery owner frustrated with generic website builders. Features real-time product filtering, persistent cart state using Context API, and integrated payment processing. Currently solving actual business challenges while exploring advanced React patterns.
