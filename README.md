@@ -28,9 +28,12 @@ Full-stack developer with a passion for building practical solutions that solve 
 ### YummyBuy E-Commerce Platform
 *Custom e-commerce solution for local business*
 
-[**Live Site**](https://www.yummybuy.ca/)
-- Create an account using SMS verification
-- Database: Cloud Firestore & Storage
+> [**Live Site**](https://www.yummybuy.ca/)
+- Create an account using SMS verification - no email or password required
+- Database: Cloud [Firestore] & Storage (Spark Plan Tier)
+- Landing Page: Made with [P5.js](https://p5js.org/)
+- Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
+- Payments: This is a pre-orders only page (owner does not accept credit/debit, only e-transfers or cash)
 
 ![YummyBuy Screenshot](assets/yummybuy-p5.js-landing-page.png)
 
