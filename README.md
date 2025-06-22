@@ -24,35 +24,32 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 - **[Let's Connect](#lets-connect)**
 
 
----
+
 
 ## Featured Project: Local LLM Integration Toolkit
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
-### 🎬 Live Demo Highlights
-
 #### Handling Raw Bytes Stream from Ollama API Endpoint
-![Handling Raw Bytes Stream from Ollama API](assets/readme-thumbnail-1.gif)  
+![Handling Raw Bytes Stream from Ollama API](/prototypes-library/assets/readme-thumbnail-1.gif)  
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-**[📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
+**[📖 Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
----
+
 
 ## YummyBuy E-Commerce
-*Custom e-commerce solution for local business*
 
-Built for a bakery owner frustrated with generic website builders.
-
-![YummyBuy Screenshot](assets/yummybuy-demo.gif)
+Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
  
 > [**Live Site**](https://www.yummybuy.ca/)
 - Create an account using SMS verification - no email or password required
 - Database: Cloud [Firestore] & Storage (Spark Plan Tier)
 - Landing Page: Made with [P5.js](https://p5js.org/)
 - Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
+
+![YummyBuy Screenshot](/prototypes-library/assets/yummybuy-demo.gif)
 
 **Key Features**: 
 - SMS auth
@@ -65,7 +62,7 @@ Built for a bakery owner frustrated with generic website builders.
 **Tech:** React, Node.js, Express, TailwindCSS  
 **[📋 Project Board](https://github.com/users/myopicOracle/projects/3)** • **[💻 Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
----
+
 
 ## The Simple Library 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
@@ -74,7 +71,7 @@ One of my first projects, and also easily one of the most memorable.
 
 ### Live Demo
 
-[![Library App Screenshot](assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
+[![Library App Screenshot](/prototypes-library/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
 
 ➡️ [Try the Live Demo](https://myopicoracle.github.io/prototypes-library/)
 
@@ -90,31 +87,31 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 
 **[📖 Documentation](https://github.com/myopicOracle/prototypes-library)**
 
----
+
 
 ## Resume Builder React App
 *Interactive resume builder with persistent state*
 
-![Resume Builder Screenshot](assets/simple-resume-app.png)
+![Resume Builder Screenshot](/prototypes-library/assets/simple-resume-app.png)
 
 Clean, functional resume builder demonstrating React fundamentals. Features component-based architecture, form state management with hooks, and seamless edit/display mode switching. Built with DRY principles and reusable components.
 
 **Tech:** React, JavaScript, CSS  
 **[🔗 Live Demo](https://simple-resume-app.netlify.app/)** • **[📖 Documentation](https://github.com/myopicOracle/resume-builder)**
 
----
+
 
 ## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
 
-![Calculator Screenshot](assets/calcutron-8000-v1.png)
+![Calculator Screenshot](/prototypes-library/assets/calcutron-8000-v1.png)
 
 Built from scratch using vanilla JavaScript with thoughtful edge case handling (including a snarky "Nice try!" for division by zero). Features proper operation logic, real-time display updates, and polished responsive design.
 
 **Tech:** JavaScript, HTML5, CSS3  
 **[🔗 Live Demo](https://calcutron-8000.netlify.app/)** • **[💻 Repository](https://github.com/myopicOracle/calcutron-8000)**
 
----
+
 
 ## The Joshua Tree Foundation: Sustainable Finance  
 *Non-Profit Sustainable Finance Inititative*
@@ -124,13 +121,17 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
 **[🌳 Joshua Tree Foundation](https://yuccapalms.org/)** • **[Instagram](https://www.instagram.com/joshuatreefoundation/)** • **[LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)** 
 
-![CarbonXchange Homepage](assets/jtf-hero.png)
-![Mission: Advance #SustainableFinance](assets/jtf-mission.png)
-![NFTree Concept](assets/jtf-about.png)
-![Net Zero Framework](assets/jtf-tech.png)
-![Voluntary Carbon Markets Thesis](assets/jtf-vision.png)
+![CarbonXchange Homepage](/prototypes-library/assets/jtf-hero.png)
+![Mission: Advance #SustainableFinance](/prototypes-library/assets/jtf-mission.png)
+![NFTree Concept](/prototypes-library/assets/jtf-about.png)
+![Net Zero Framework](/prototypes-library/assets/jtf-tech.png)
+![Voluntary Carbon Markets Thesis](/prototypes-library/assets/jtf-vision.png)
 
----
+The Yucca Palms project, also known as The Joshua Tree Foundation, is a sustainable finance initiative that combines environmentalism with blockchain technology.
+
+At its core, the project facilitates the planting of trees to sequester carbon dioxide. When you fund a tree, you receive a digital certificate of ownership in the form of an NFT (Non-Fungible Token), which they call an "NFTree." This token represents the physical tree and is recorded on a blockchain, also granting you a lease on the land where it grows.
+
+As the tree matures and absorbs more CO2, you are intended to share in the benefits of the carbon offsets it generates. The project aims to operate within the voluntary carbon markets and is developing a suite of digital asset products, including a decentralized exchange for carbon credits.
 
 ## Tech Stack
 
@@ -139,22 +140,22 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 **AI/ML:** Ollama, API Integration, Model Deployment  
 **Currently exploring:** Python, TypeScript, Next.js, blockchain development
 
----
+
 
 ## Certifications
 
-**Certifications:**  
-_Full Stack Open - Core Certificate (Sep 2024 - Jan 2025)
-_App Brewery - The Complete Full Stack Web Development Bootcamp (Oct 2024 - Jun 2025)
-_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)
-_IBM Data Analyst Professional Certification  (May 2025)
-_Microsoft Azure AI-900 (Apr 2025)
-  
-**Bootcamps**  
-_The Odin Project - Full Stack JavaScript Track (Nov 2024 - Jun 2025)
-_Data Analyst Bootcamp - NPower Canada (Jan 2025 - Apr 2025)
+**Certifications:**   
+_Full Stack Open - Core Certificate (Sep 2024 - Jan 2025)   
+_App Brewery - The Complete Full Stack Web Development Bootcamp (Oct 2024 - Jun 2025)   
+_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)   
+_IBM Data Analyst Professional Certification  (May 2025)   
+_Microsoft Azure AI-900 (Apr 2025)   
+   
+**Bootcamps**   
+_The Odin Project - Full Stack JavaScript Track (Nov 2024 - Jun 2025)   
+_Data Analyst Bootcamp - NPower Canada (Jan 2025 - Apr 2025)   
 
----
+
 
 ## Let's Connect
 
