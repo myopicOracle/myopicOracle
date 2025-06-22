@@ -24,13 +24,11 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 - **[Let's Connect](#lets-connect)**
 
 
----
+
 
 ## Featured Project: Local LLM Integration Toolkit
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
-
-### 🎬 Live Demo Highlights
 
 #### Handling Raw Bytes Stream from Ollama API Endpoint
 ![Handling Raw Bytes Stream from Ollama API](assets/readme-thumbnail-1.gif)  
@@ -39,20 +37,19 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
 **[📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
----
+
 
 ## YummyBuy E-Commerce
-*Custom e-commerce solution for local business*
 
-Built for a bakery owner frustrated with generic website builders.
-
-![YummyBuy Screenshot](assets/yummybuy-demo.gif)
+Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
  
 > [**Live Site**](https://www.yummybuy.ca/)
 - Create an account using SMS verification - no email or password required
 - Database: Cloud [Firestore] & Storage (Spark Plan Tier)
 - Landing Page: Made with [P5.js](https://p5js.org/)
 - Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
+
+![YummyBuy Screenshot](assets/yummybuy-demo.gif)
 
 **Key Features**: 
 - SMS auth
@@ -65,7 +62,7 @@ Built for a bakery owner frustrated with generic website builders.
 **Tech:** React, Node.js, Express, TailwindCSS  
 **[📋 Project Board](https://github.com/users/myopicOracle/projects/3)** • **[💻 Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
----
+
 
 ## The Simple Library 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
@@ -90,7 +87,7 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 
 **[📖 Documentation](https://github.com/myopicOracle/prototypes-library)**
 
----
+
 
 ## Resume Builder React App
 *Interactive resume builder with persistent state*
@@ -102,7 +99,7 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 **Tech:** React, JavaScript, CSS  
 **[🔗 Live Demo](https://simple-resume-app.netlify.app/)** • **[📖 Documentation](https://github.com/myopicOracle/resume-builder)**
 
----
+
 
 ## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
@@ -114,7 +111,7 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 **Tech:** JavaScript, HTML5, CSS3  
 **[🔗 Live Demo](https://calcutron-8000.netlify.app/)** • **[💻 Repository](https://github.com/myopicOracle/calcutron-8000)**
 
----
+
 
 ## The Joshua Tree Foundation: Sustainable Finance  
 *Non-Profit Sustainable Finance Inititative*
@@ -130,7 +127,7 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 ![Net Zero Framework](assets/jtf-tech.png)
 ![Voluntary Carbon Markets Thesis](assets/jtf-vision.png)
 
----
+
 
 ## Tech Stack
 
@@ -139,22 +136,22 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 **AI/ML:** Ollama, API Integration, Model Deployment  
 **Currently exploring:** Python, TypeScript, Next.js, blockchain development
 
----
+
 
 ## Certifications
 
-**Certifications:**  
-_Full Stack Open - Core Certificate (Sep 2024 - Jan 2025)
-_App Brewery - The Complete Full Stack Web Development Bootcamp (Oct 2024 - Jun 2025)
-_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)
-_IBM Data Analyst Professional Certification  (May 2025)
-_Microsoft Azure AI-900 (Apr 2025)
-  
-**Bootcamps**  
-_The Odin Project - Full Stack JavaScript Track (Nov 2024 - Jun 2025)
-_Data Analyst Bootcamp - NPower Canada (Jan 2025 - Apr 2025)
+**Certifications:**   
+_Full Stack Open - Core Certificate (Sep 2024 - Jan 2025)   
+_App Brewery - The Complete Full Stack Web Development Bootcamp (Oct 2024 - Jun 2025)   
+_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)   
+_IBM Data Analyst Professional Certification  (May 2025)   
+_Microsoft Azure AI-900 (Apr 2025)   
+   
+**Bootcamps**   
+_The Odin Project - Full Stack JavaScript Track (Nov 2024 - Jun 2025)   
+_Data Analyst Bootcamp - NPower Canada (Jan 2025 - Apr 2025)   
 
----
+
 
 ## Let's Connect
 
