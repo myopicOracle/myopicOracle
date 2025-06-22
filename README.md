@@ -6,18 +6,34 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 
 ## Table of Contents
 
-- [🤖 Featured Project: Local LLM Integration Toolkit](#-featured-project-local-llm-integration-toolkit)
-  - [🎬 Live Demo Highlights](#-live-demo-highlights)
-- [🚀 Project Portfolio](#-project-portfolio)
-  - [YummyBuy E-Commerce Platform](#yummybuy-e-commerce-platform)
-  - [The Simple Library](#the-simple-library)
-    - [Live Demo](#live-demo)
-    - [What I Learned](#what-i-learned)
-  - [Resume Builder React App](#resume-builder-react-app)
-  - [Calcutron 8000 Calculator](#calcutron-8000-calculator)
-  - [CarbonXchange • The Joshua Tree Foundation](#carbonxchange--the-joshua-tree-foundation)
-- [🛠️ Tech Stack & Expertise](#-tech-stack--expertise)
-- [🤝 Let's Connect](#-lets-connect)
+- **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**
+  - [📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)
+  - [🎥 Video Walkthroughs](https://youtu.be/meABLedKNhY)
+- **[YummyBuy E-Commerce](#yummybuy-e-commerce)**
+  - [🌐 Live Site](https://www.yummybuy.ca/)
+  - [📋 Project Board](https://github.com/users/myopicOracle/projects/3)
+- **[The Simple Library](#the-simple-library)**
+  - [📱 Live Demo](https://myopicoracle.github.io/prototypes-library/)
+  - [📖 Documentation](https://github.com/myopicOracle/prototypes-library)
+- **[Resume Builder React App](#resume-builder-react-app)**
+  - [🚀 Live Demo](https://simple-resume-app.netlify.app/)
+  - [📖 Documentation](https://github.com/myopicOracle/resume-builder)
+- **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**
+  - [🖩 Live Demo](https://calcutron-8000.netlify.app/)
+  - [💻 Repository](https://github.com/myopicOracle/calcutron-8000)
+- **[The Joshua Tree Foundation](#the-joshua-tree-foundation)**
+  - [🌳 Website](https://yuccapalms.org/)
+  - [📸 Instagram](https://www.instagram.com/joshuatreefoundation/)
+  - [💼 LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
+- **[Certifications](#certifications)**
+  - [🎓 Full Stack Web Development Bootcamp - App Brewery](#certifications)
+  - [📊 IBM Data Analyst Professional Certification](#certifications)
+  - [🤖 Microsoft Azure AI-900](#certifications)
+  - [🖥️ The Odin Project - Full Stack JavaScript Track](#certifications)
+  - [📈 Data Analyst Bootcamp - NPower Canada](#certifications)
+- **[Tech Stack](#tech-stack)**
+- **[Let's Connect](#lets-connect)**
+
 
 ---
 
