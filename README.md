@@ -1,10 +1,27 @@
-# Hey there, I'm Gary 👋
+# Hi. 👋<br>&&. I'm || Me Llamo || 我叫<br> &&. Gary
 
-Full-stack developer with a passion for building practical solutions that solve real problems. I love working across the entire development stack—from AI infrastructure to user interfaces and everything in between.
+Investment banker turned full-stack developer with 500+ hours of coding education through The Odin Project and Full Stack Open. Proficient in JavaScript, React, Node.js, and Python. Northwestern Economics grad bringing analytical rigor and financial domain expertise to software development. Seeking junior developer roles in web development, fintech, or data engineering.
+
+> Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name))
+
+## Table of Contents
+
+- [🤖 Featured Project: Local LLM Integration Toolkit](#-featured-project-local-llm-integration-toolkit)
+  - [🎬 Live Demo Highlights](#-live-demo-highlights)
+- [🚀 Project Portfolio](#-project-portfolio)
+  - [YummyBuy E-Commerce Platform](#yummybuy-e-commerce-platform)
+  - [The Simple Library](#the-simple-library)
+    - [Live Demo](#live-demo)
+    - [What I Learned](#what-i-learned)
+  - [Resume Builder React App](#resume-builder-react-app)
+  - [Calcutron 8000 Calculator](#calcutron-8000-calculator)
+  - [CarbonXchange • The Joshua Tree Foundation](#carbonxchange--the-joshua-tree-foundation)
+- [🛠️ Tech Stack & Expertise](#-tech-stack--expertise)
+- [🤝 Let's Connect](#-lets-connect)
 
 ---
 
-## 🤖 Featured Project: Local LLM Integration Toolkit
+## Featured Project: Local LLM Integration Toolkit
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
@@ -23,28 +40,58 @@ Full-stack developer with a passion for building practical solutions that solve 
 
 ---
 
-## 🚀 Project Portfolio
-
-### YummyBuy E-Commerce Platform
+## YummyBuy E-Commerce
 *Custom e-commerce solution for local business*
 
+Built for a bakery owner frustrated with generic website builders.
+
+![YummyBuy Screenshot](assets/yummybuy-p5.js-landing-page.png)
+ 
 > [**Live Site**](https://www.yummybuy.ca/)
 - Create an account using SMS verification - no email or password required
 - Database: Cloud [Firestore] & Storage (Spark Plan Tier)
 - Landing Page: Made with [P5.js](https://p5js.org/)
 - Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
-- Payments: This is a pre-orders only page (owner does not accept credit/debit, only e-transfers or cash)
 
-![YummyBuy Screenshot](assets/yummybuy-p5.js-landing-page.png)
-
-Built for a bakery owner frustrated with generic website builders. Features real-time product filtering, persistent cart state using Context API, and integrated payment processing. Currently solving actual business challenges while exploring advanced React patterns.
+**Key Features**: 
+- SMS auth
+- Orders & user maangement
+- Data persistence using Cloud Firestore
+- Cross-platform native CMS dashboard
+- Inventory management
+- Business analytics baked into admin view
 
 **Tech:** React, Node.js, Express, TailwindCSS  
 **[📋 Project Board](https://github.com/users/myopicOracle/projects/3)** • **[💻 Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
 ---
 
-### Resume Builder React App
+## The Simple Library 
+*Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
+
+One of my first projects, and also easily one of the most memorable.
+
+### Live Demo
+
+[![Library App Screenshot](assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
+
+➡️ [Try the Live Demo](https://myopicoracle.github.io/prototypes-library/)
+
+Built with vanilla JavaScript, this project was my first taste of OOP, getting some reps in for prototypal-inheritance, JS classes, constructor functions, DOM manipulation, and local storage.
+
+### What I Learned
+
+- Object-oriented programming with JavaScript classes and prototypes
+- DOM manipulation and event handling
+- Form validation and data persistence
+- Responsive web design principles
+- Code organization and project structure
+
+**[📖 Documentation](https://github.com/myopicOracle/prototypes-library)**
+
+---
+
+## Resume Builder React App
 *Interactive resume builder with persistent state*
 
 ![Resume Builder Screenshot](assets/simple-resume-app.png)
@@ -56,7 +103,7 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 
 ---
 
-### Calcutron 8000 Calculator
+## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
 
 ![Calculator Screenshot](assets/calcutron-8000-v1.png)
@@ -68,8 +115,13 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 
 ---
 
-### CarbonXchange • The Joshua Tree Foundation
-*Sustainability platform bridging carbon markets and blockchain innovation*
+## The Joshua Tree Foundation  
+*Non-Profit Sustainable Finance Inititative*
+
+A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
+
+**Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
+**[🌳 Joshua Tree Foundation](https://yuccapalms.org/)** • **[Instagram](https://www.instagram.com/joshuatreefoundation/)** • **[LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)** 
 
 ![CarbonXchange Homepage](assets/jtf-hero.png)
 ![Mission: Advance #SustainableFinance](assets/jtf-mission.png)
@@ -77,24 +129,31 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 ![Net Zero Framework](assets/jtf-tech.png)
 ![Voluntary Carbon Markets Thesis](assets/jtf-vision.png)
 
-A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.
-
-**Focus:** UX Design, Environmental Tech, Blockchain Concepts  
-**[🌱 Visit Platform](https://carbonxchange.ai/)** • **[🌳 Joshua Tree Foundation](https://yuccapalms.org/)**
-
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack
 
 **Frontend:** React, JavaScript, HTML/CSS, Tailwind CSS  
 **Backend:** Node.js, Express, SQL  
 **AI/ML:** Ollama, API Integration, Model Deployment  
-**Currently exploring:** Python, TypeScript, Next.js, blockchain development  
-**Certifications:** Microsoft Azure AI-900 (IBM Data Analyst Professional incoming)
+**Currently exploring:** Python, TypeScript, Next.js, blockchain development
 
 ---
 
-## 🤝 Let's Connect
+## Certifications
+
+**Certifications:**  
+_The Complete Full Stack Web Development Bootcamp - App Brewery  
+_IBM Data Analyst Professional Certification  
+_Microsoft Azure AI-900  
+  
+**Bootcamps**  
+_The Odin Project - Full Stack JavaScript Track  
+_Data Analyst Bootcamp - NPower Canada  
+
+---
+
+## Let's Connect
 
 Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
 
