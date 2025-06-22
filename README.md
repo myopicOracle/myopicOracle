@@ -6,31 +6,20 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 
 ## Table of Contents
 
-- **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**
-  - [📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)
-  - [🎥 Video Walkthroughs](https://youtu.be/meABLedKNhY)
-- **[YummyBuy E-Commerce](#yummybuy-e-commerce)**
-  - [🌐 Live Site](https://www.yummybuy.ca/)
-  - [📋 Project Board](https://github.com/users/myopicOracle/projects/3)
-- **[The Simple Library](#the-simple-library)**
-  - [📱 Live Demo](https://myopicoracle.github.io/prototypes-library/)
-  - [📖 Documentation](https://github.com/myopicOracle/prototypes-library)
-- **[Resume Builder React App](#resume-builder-react-app)**
-  - [🚀 Live Demo](https://simple-resume-app.netlify.app/)
-  - [📖 Documentation](https://github.com/myopicOracle/resume-builder)
-- **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**
-  - [🖩 Live Demo](https://calcutron-8000.netlify.app/)
-  - [💻 Repository](https://github.com/myopicOracle/calcutron-8000)
-- **[The Joshua Tree Foundation](#the-joshua-tree-foundation)**
-  - [🌳 Website](https://yuccapalms.org/)
-  - [📸 Instagram](https://www.instagram.com/joshuatreefoundation/)
-  - [💼 LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
-- **[Certifications](#certifications)**
-  - [🎓 Full Stack Web Development Bootcamp - App Brewery](#certifications)
-  - [📊 IBM Data Analyst Professional Certification](#certifications)
-  - [🤖 Microsoft Azure AI-900](#certifications)
-  - [🖥️ The Odin Project - Full Stack JavaScript Track](#certifications)
-  - [📈 Data Analyst Bootcamp - NPower Canada](#certifications)
+- **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
+  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
+- **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
+  - [Live Site](https://www.yummybuy.ca/)  •  [Project Board](https://github.com/users/myopicOracle/projects/3)
+- **[The Simple Library](#the-simple-library)**  
+  - [Live Demo](https://myopicoracle.github.io/prototypes-library/)  •  [Documentation](https://github.com/myopicOracle/prototypes-library)
+- **[Resume Builder React App](#resume-builder-react-app)**  
+  - [Live Demo](https://simple-resume-app.netlify.app/)  •  [Documentation](https://github.com/myopicOracle/resume-builder)
+- **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
+  - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repository](https://github.com/myopicOracle/calcutron-8000)
+- **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation)**  
+  - [Website](https://yuccapalms.org/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
+- **[Certifications & Bootcamps](#certifications)**  
+  - [The Odin Project - Full Stack JavaScript Track](#certifications)  •  [Full Stack Open - Core Certificate](#certifications)  •  [App Brewery - Full Stack Developer Certificate](#certifications)  •  [IBM Data Analyst Professional](#certifications)  •  [Microsoft Azure AI-900](#certifications)  •  [NPower Data Analyst Bootcamp](#certifications)
 - **[Tech Stack](#tech-stack)**
 - **[Let's Connect](#lets-connect)**
 
@@ -47,10 +36,6 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 ![Handling Raw Bytes Stream from Ollama API](assets/readme-thumbnail-1.gif)  
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
-#### Exposing Your Local API for Remote Access w/ ngrok
-![Exposing Local API for Remote Access](assets/readme-thumbnail-2.gif)  
-**[Watch on YouTube](https://youtu.be/Ky8DzoPFd4E?si=Qs5sORy2KA3whU32)**
-
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
 **[📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
@@ -61,7 +46,7 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 
 Built for a bakery owner frustrated with generic website builders.
 
-![YummyBuy Screenshot](assets/yummybuy-p5.js-landing-page.png)
+![YummyBuy Screenshot](assets/yummybuy-demo.gif)
  
 > [**Live Site**](https://www.yummybuy.ca/)
 - Create an account using SMS verification - no email or password required
@@ -131,7 +116,7 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 
 ---
 
-## The Joshua Tree Foundation  
+## The Joshua Tree Foundation: Sustainable Finance  
 *Non-Profit Sustainable Finance Inititative*
 
 A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
@@ -159,13 +144,15 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 ## Certifications
 
 **Certifications:**  
-_The Complete Full Stack Web Development Bootcamp - App Brewery  
-_IBM Data Analyst Professional Certification  
-_Microsoft Azure AI-900  
+_Full Stack Open - Core Certificate (Sep 2024 - Jan 2025)
+_App Brewery - The Complete Full Stack Web Development Bootcamp (Oct 2024 - Jun 2025)
+_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)
+_IBM Data Analyst Professional Certification  (May 2025)
+_Microsoft Azure AI-900 (Apr 2025)
   
 **Bootcamps**  
-_The Odin Project - Full Stack JavaScript Track  
-_Data Analyst Bootcamp - NPower Canada  
+_The Odin Project - Full Stack JavaScript Track (Nov 2024 - Jun 2025)
+_Data Analyst Bootcamp - NPower Canada (Jan 2025 - Apr 2025)
 
 ---
 
