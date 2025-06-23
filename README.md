@@ -35,7 +35,7 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-**[📖 Full Documentation](https://github.com/myopicOracle/local-llm-guide)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
+**[📖 Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
 
 
@@ -127,7 +127,11 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 ![Net Zero Framework](assets/jtf-tech.png)
 ![Voluntary Carbon Markets Thesis](assets/jtf-vision.png)
 
+The Yucca Palms project, also known as The Joshua Tree Foundation, is a sustainable finance initiative that combines environmentalism with blockchain technology.
 
+At its core, the project facilitates the planting of trees to sequester carbon dioxide. When you fund a tree, you receive a digital certificate of ownership in the form of an NFT (Non-Fungible Token), which they call an "NFTree." This token represents the physical tree and is recorded on a blockchain, also granting you a lease on the land where it grows.
+
+As the tree matures and absorbs more CO2, you are intended to share in the benefits of the carbon offsets it generates. The project aims to operate within the voluntary carbon markets and is developing a suite of digital asset products, including a decentralized exchange for carbon credits.
 
 ## Tech Stack
 
