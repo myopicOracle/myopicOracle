@@ -1,0 +1,58 @@
+@import "{{ site.theme }}";
+
+// Custom styles for your portfolio
+// Add any custom CSS/SCSS here
+
+// Example: Custom styling for your portfolio content
+.project-demo {
+  margin: 20px 0;
+  border: 1px solid #333;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.project-demo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+// Style for your multi-language greeting
+h1 {
+  line-height: 1.2;
+}
+
+// Better spacing for your sections
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+// Style for your project links
+.project-links a {
+  margin-right: 10px;
+  display: inline-block;
+}
+
+// Responsive images
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// Custom blockquote styling for your fun fact
+blockquote {
+  border-left: 4px solid #00ff00;
+  padding-left: 1em;
+  margin: 1.5em 0;
+  font-style: italic;
+}
+
+// Style for your certification lists
+ul {
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
