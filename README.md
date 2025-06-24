@@ -31,7 +31,7 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
 #### Handling Raw Bytes Stream from Ollama API Endpoint
-![Handling Raw Bytes Stream from Ollama API](/prototypes-library/assets/readme-thumbnail-1.gif)  
+![Handling Raw Bytes Stream from Ollama API](assets/readme-thumbnail-1.gif)  
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
@@ -49,7 +49,7 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 - Landing Page: Made with [P5.js](https://p5js.org/)
 - Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
 
-![YummyBuy Screenshot](/prototypes-library/assets/yummybuy-demo.gif)
+![YummyBuy Screenshot](assets/yummybuy-demo.gif)
 
 **Key Features**: 
 - SMS auth
@@ -71,7 +71,7 @@ One of my first projects, and also easily one of the most memorable.
 
 ### Live Demo
 
-[![Library App Screenshot](/prototypes-library/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
+[![Library App Screenshot](assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
 
 ➡️ [Try the Live Demo](https://myopicoracle.github.io/prototypes-library/)
 
@@ -92,7 +92,7 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 ## Resume Builder React App
 *Interactive resume builder with persistent state*
 
-![Resume Builder Screenshot](/prototypes-library/assets/simple-resume-app.png)
+![Resume Builder Screenshot](assets/simple-resume-app.png)
 
 Clean, functional resume builder demonstrating React fundamentals. Features component-based architecture, form state management with hooks, and seamless edit/display mode switching. Built with DRY principles and reusable components.
 
@@ -104,7 +104,7 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 ## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
 
-![Calculator Screenshot](/prototypes-library/assets/calcutron-8000-v1.png)
+![Calculator Screenshot](assets/calcutron-8000-v1.png)
 
 Built from scratch using vanilla JavaScript with thoughtful edge case handling (including a snarky "Nice try!" for division by zero). Features proper operation logic, real-time display updates, and polished responsive design.
 
@@ -121,11 +121,11 @@ A comprehensive sustainability platform exploring carbon offset initiatives thro
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
 **[🌳 Joshua Tree Foundation](https://yuccapalms.org/)** • **[Instagram](https://www.instagram.com/joshuatreefoundation/)** • **[LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)** 
 
-![CarbonXchange Homepage](/prototypes-library/assets/jtf-hero.png)
-![Mission: Advance #SustainableFinance](/prototypes-library/assets/jtf-mission.png)
-![NFTree Concept](/prototypes-library/assets/jtf-about.png)
-![Net Zero Framework](/prototypes-library/assets/jtf-tech.png)
-![Voluntary Carbon Markets Thesis](/prototypes-library/assets/jtf-vision.png)
+![CarbonXchange Homepage](assets/jtf-hero.png)
+![Mission: Advance #SustainableFinance](assets/jtf-mission.png)
+![NFTree Concept](assets/jtf-about.png)
+![Net Zero Framework](assets/jtf-tech.png)
+![Voluntary Carbon Markets Thesis](assets/jtf-vision.png)
 
 The Yucca Palms project, also known as The Joshua Tree Foundation, is a sustainable finance initiative that combines environmentalism with blockchain technology.
 
