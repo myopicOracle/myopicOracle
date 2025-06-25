@@ -1,13 +1,13 @@
-# Hi. 👋  
-## &&. I'm || Me Llamo || 我叫  
-## &&. Gary  
+# Hi. 👋<br>&&. I'm || Me Llamo || 我叫<br>&&. Gary  
 
 Investment banker turned full-stack developer with 500+ hours of coding education through The Odin Project and Full Stack Open. Proficient in JavaScript, React, Node.js, and Python. Northwestern Economics grad bringing analytical rigor and financial domain expertise to software development. Seeking junior developer roles in web development, fintech, or data engineering.
 
 > Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name))
 
 
-# Table of Contents
+<br>
+
+## Table of Contents
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
   - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
@@ -27,24 +27,27 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 - **[Let's Connect](#lets-connect)**
 
 
-# Featured Project: Local LLM Integration Toolkit
+<br>
+
+## Featured Project: Local LLM Integration Toolkit
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
-## Handling Raw Bytes Stream from Ollama API Endpoint
-![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2a.gif)  
-![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2b.gif)  
+### Handling Raw Bytes Stream from Ollama API Endpoint
+![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2.gif)  
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
 **[📖 Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)** • **[🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
 
-# YummyBuy E-Commerce
+<br>
+
+## YummyBuy E-Commerce
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
  
->## [**Live Site**](https://www.yummybuy.ca/)
+>### [**Live Site**](https://www.yummybuy.ca/)
 - Create an account using SMS verification - no email or password required
 - Database: Cloud [Firestore] & Storage (Spark Plan Tier)
 - Landing Page: Made with [P5.js](https://p5js.org/)
@@ -64,12 +67,14 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 **[📋 Project Board](https://github.com/users/myopicOracle/projects/3)** • **[💻 Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
 
-# The Simple Library 
+<br>
+
+## The Simple Library 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
 
 One of my first projects, and also easily one of the most memorable.
 
-### Live Demo
+#### Live Demo
 
 [![Library App Screenshot](/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
 
@@ -77,7 +82,7 @@ One of my first projects, and also easily one of the most memorable.
 
 Built with vanilla JavaScript, this project was my first taste of OOP, getting some reps in for prototypal-inheritance, JS classes, constructor functions, DOM manipulation, and local storage.
 
-### What I Learned
+#### What I Learned
 
 - Object-oriented programming with JavaScript classes and prototypes
 - DOM manipulation and event handling
@@ -88,7 +93,9 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 **[📖 Documentation](https://github.com/myopicOracle/prototypes-library)**
 
 
-# Resume Builder React App
+<br>
+
+## Resume Builder React App
 *Interactive resume builder with persistent state*
 
 ![Resume Builder Screenshot](/assets/simple-resume-app.png)
@@ -99,7 +106,9 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 **[🔗 Live Demo](https://simple-resume-app.netlify.app/)** • **[📖 Documentation](https://github.com/myopicOracle/resume-builder)**
 
 
-# Calcutron 8000 Calculator
+<br>
+
+## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
 
 ![Calculator Screenshot](/assets/calcutron-8000-v1.png)
@@ -110,7 +119,9 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 **[🔗 Live Demo](https://calcutron-8000.netlify.app/)** • **[💻 Repository](https://github.com/myopicOracle/calcutron-8000)**
 
 
-# The Joshua Tree Foundation: Sustainable Finance  
+<br>
+
+## The Joshua Tree Foundation: Sustainable Finance  
 *Non-Profit Sustainable Finance Inititative*
 
 A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
@@ -131,39 +142,43 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 **[🌳 Joshua Tree Foundation](https://yuccapalms.org/)** • **[Instagram](https://www.instagram.com/joshuatreefoundation/)** • **[LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)** 
 
 
-# Tech Stack
+<br>
 
-## **Languages/Runtimes:** 
+## Tech Stack
+
+### **Languages/Runtimes:** 
 - JavaScript / Node.js  
 - Python / Flask  
 - SQL / R  
 
-## **Frameworks/Libraries:** 
+### **Frameworks/Libraries:** 
 - React / Express  
 - TailwindCSS / Bootstrap   
 - PostgreSQL / MySQL / SQLite  
 - NumPy / Pandas / Scikit-learn
 - Matplotlib / Seaborn
 
-## **AI/ML:** 
+### **AI/ML:** 
 - API Integration / Function Calling
 - Model Deployment / Containerization 
 - Prompt Engineering / MCP
 
-## **Blockchain/Web3**
+### **Blockchain/Web3**
 - Solidity / Smart Contracts
 - Web3.js / Ethereum  
 
-## **Currently Exploring:** 
+### **Currently Exploring:** 
 - TypeScript / Next.js  
 - Golang  
 - Svelte  
 - Rust  
 
 
-# Certificates & Bootcamps
+<br>
 
-## **Completed:**   
+## Certificates & Bootcamps
+
+### **Completed:**   
 _The Odin Project (Nov 2024 - Jun 2025) 
 - Foundational training in HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, and React.js, in addition to building a robust portfolio of real-world projects, including responsive websites and full-stack applications, demonstrating proficiency in Git, deployment, and collaborative development.
 
@@ -177,22 +192,24 @@ _The Odin Project (Nov 2024 - Jun 2025)
 - Awarded for demonstrating proficiency in fundamental machine learning, computer vision, natural language processing, and generative AI concepts, with hands-on experience using Azure AI services like Cognitive Services and Vision Studio to implement no-code AI solutions for real-world workloads.
 
    
-## **In-Progress:**  
+### **In-Progress:**  
 _AWS Cloud Solutions Architect - Associate [SAA-C03] (Jun 2025 - present) 
 _Deeplearning.ai - Machine Learning Specialization (Apr 2025 - present)
 _freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)   
 _University of Helsinki - Full Stack Open (Sep 2024 - present)   
 
-## **Want to Earn:** 
+### **Want to Earn:** 
 _AWS Certified Developer Associate [DVA-C02]
 _Certified Kubernetes Application Developer (CKAD)
 _AWS Certified Machine Learning Engineer - Associate [MLA-C01]
 
-## **See Certifications & Licenses**
-### [certified.garyxia.com](https://certified.garyxia.com/)
+### **See Certifications & Licenses**
+#### [certified.garyxia.com](https://certified.garyxia.com/)
 
 
-# Let's Connect
+<br>
+
+## Let's Connect
 
 Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
 
