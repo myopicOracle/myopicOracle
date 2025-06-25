@@ -179,29 +179,29 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 ## Certificates & Bootcamps
 
 ### **Completed:**   
-_The Odin Project (Nov 2024 - Jun 2025) 
+##### *The Odin Project (Nov 2024 - Jun 2025)* 
 - Foundational training in HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, and React.js, in addition to building a robust portfolio of real-world projects, including responsive websites and full-stack applications, demonstrating proficiency in Git, deployment, and collaborative development.
 
-[_The Complete Full Stack Web Development Bootcamp](http://ude.my/UC-118e5203-a255-4989-81d8-38cb83fa120) (Oct 2024 - Jun 2025)   
+##### [*The Complete Full Stack Web Development Bootcamp*](http://ude.my/UC-118e5203-a255-4989-81d8-38cb83fa120) (Oct 2024 - Jun 2025)   
 - Full-stack web development with tools like HTML5, CSS3, JavaScript ES6, React.js, Node.js, Express.js, PostgreSQL, and Web3 technologies, building a portfolio of full-stack websites and web apps, including NFT and blockchain projects.
 
-[_IBM Data Analyst Professional Certification](https://coursera.org/verify/professional-cert/2DDH2VYKB4ET) (Jan 2025 - May 2025) 
+##### [*IBM Data Analyst Professional Certification*](https://coursera.org/verify/professional-cert/2DDH2VYKB4ET) (Jan 2025 - May 2025) 
 - 11 course Professional specialization awarded for proficiency in Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, with hands-on experience in data manipulation, visualization, and presenting insights from real-world datasets.
 
-[_Microsoft Azure AI-900](https://learn.microsoft.com/api/credentials/share/en-us/TheGaryXia/DE5DD36CDAB485C6?sharingId=BB48E30F2DE03E0D) (Apr 2025 - Apr 2025) 
+##### [*Microsoft Azure AI-900*](https://learn.microsoft.com/api/credentials/share/en-us/TheGaryXia/DE5DD36CDAB485C6?sharingId=BB48E30F2DE03E0D) (Apr 2025 - Apr 2025) 
 - Awarded for demonstrating proficiency in fundamental machine learning, computer vision, natural language processing, and generative AI concepts, with hands-on experience using Azure AI services like Cognitive Services and Vision Studio to implement no-code AI solutions for real-world workloads.
 
    
 ### **In-Progress:**  
-_AWS Cloud Solutions Architect - Associate [SAA-C03] (Jun 2025 - present) 
-_Deeplearning.ai - Machine Learning Specialization (Apr 2025 - present)
-_freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)   
-_University of Helsinki - Full Stack Open (Sep 2024 - present)   
+- AWS Cloud Solutions Architect - Associate [SAA-C03] (Jun 2025 - present)     
+- Deeplearning.ai - Machine Learning Specialization (Apr 2025 - present)    
+- freeCodeCamp - Certified Full Stack Developer (Sep 2024 - present)       
+- University of Helsinki - Full Stack Open (Sep 2024 - present)       
 
 ### **Want to Earn:** 
-_AWS Certified Developer Associate [DVA-C02]
-_Certified Kubernetes Application Developer (CKAD)
-_AWS Certified Machine Learning Engineer - Associate [MLA-C01]
+- AWS Certified Developer Associate [DVA-C02]
+- Certified Kubernetes Application Developer (CKAD)
+- AWS Certified Machine Learning Engineer - Associate [MLA-C01]
 
 ### **See Certifications & Licenses**
 #### [certified.garyxia.com](https://certified.garyxia.com/)
