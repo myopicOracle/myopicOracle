@@ -9,6 +9,8 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 > Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name))
 
 
+<br>
+
 ## Table of Contents
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
@@ -29,6 +31,8 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 - **[Let's Connect](#lets-connect)**
 
 
+<br>
+
 ## Featured Project: Local LLM Integration Toolkit
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
@@ -45,6 +49,8 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 **[&#x1F4D6; Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)** • **[&#x1F3A5; Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
 
 
+<br>
+
 ## YummyBuy E-Commerce
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
@@ -55,7 +61,11 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 - Landing Page: Made with [P5.js](https://p5js.org/)
 - Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
 
-![YummyBuy Screenshot](/assets/yummybuy-demo.gif)
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
+  <source src="/assets/yummybuy-demo.mp4" type="video/mp4">
+  <img src="/assets/yummybuy-demo.gif" alt="YummyBuy.ca Loading Animation Demo">
+</video>
+
 
 **Key Features**: 
 - SMS auth
@@ -68,6 +78,8 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 **Tech:** React, Node.js, Express, TailwindCSS  
 **[&#x1F4C3; Project Board](https://github.com/users/myopicOracle/projects/3)** • **[&#x1F4BB; Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
+
+<br>
 
 ## The Simple Library 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
@@ -93,6 +105,8 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 **[&#x1F4D6; Documentation](https://github.com/myopicOracle/prototypes-library)**
 
 
+<br>
+
 ## Resume Builder React App
 *Interactive resume builder with persistent state*
 
@@ -104,6 +118,8 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 **[&#x1F517; Live Demo](https://simple-resume-app.netlify.app/)** • **[&#x1F4D6; Documentation](https://github.com/myopicOracle/resume-builder)**
 
 
+<br>
+
 ## Calcutron 8000 Calculator
 *Vanilla JavaScript calculator with elegant UX*
 
@@ -114,6 +130,8 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 **Tech:** JavaScript, HTML5, CSS3  
 **[&#x1F517; Live Demo](https://calcutron-8000.netlify.app/)** • **[&#x1F4BB; Repository](https://github.com/myopicOracle/calcutron-8000)**
 
+
+<br>
 
 ## The Joshua Tree Foundation: Sustainable Finance  
 *Non-Profit Sustainable Finance Inititative*
@@ -133,6 +151,8 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
 **[&#x1F33F; Joshua Tree Foundation](https://yuccapalms.org/)** • **[Instagram](https://www.instagram.com/joshuatreefoundation/)** • **[LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)** 
 
+
+<br>
 
 ## Tech Stack
 
@@ -164,6 +184,8 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 - Rust  
 
 
+<br>
+
 ## Certificates & Bootcamps
 
 ### **Completed:**   
@@ -194,6 +216,8 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 ### **See Certifications & Licenses**
 #### [certified.garyxia.com](https://certified.garyxia.com/)
 
+
+<br>
 
 ## Let's Connect
 
