@@ -14,11 +14,11 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 ## Table of Contents
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
+  - [Live Site](https://intelli-g.vercel.app/)  •  [YouTube Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)
 - **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
   - [Live Site](https://www.yummybuy.ca/)  •  [Project Board](https://github.com/users/myopicOracle/projects/3)
 - **[The Simple Library](#the-simple-library)**  
-  - [Live Demo](https://myopicoracle.github.io/prototypes-library/)  •  [Documentation](https://github.com/myopicOracle/prototypes-library)
+  - [Live Demo](https://thesimplelibrary.netlify.app/)  •  [Documentation](https://github.com/myopicOracle/prototypes-library)
 - **[Resume Builder React App](#resume-builder-react-app)**  
   - [Live Demo](https://simple-resume-app.netlify.app/)  •  [Documentation](https://github.com/myopicOracle/resume-builder)
 - **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
@@ -35,7 +35,7 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 
 ## Featured Project: Local LLM Integration Toolkit
 
-**End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
+**End-to-end AI infrastructure built from scratch.** Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
 ### Handling Raw Bytes Stream from Ollama API Endpoint
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
@@ -43,10 +43,19 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
   <img src="/assets/ollama_thumbnail_2.gif" alt="Handling Raw Bytes Stream from Ollama API">
 </video>
 
-**[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
+### **Live Site**
+- [**intelli-g.vercel.app**](https://intelli-g.vercel.app/)
 
-**Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-**[&#x1F4D6; Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)** • **[&#x1F3A5; Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)**
+### **Watch on YouTube**
+- **[Part I - Run LLMs Locally with Ollama CLI](https://youtu.be/meABLedKNhY?si=AKur6gnwUg9I4XaI&t=142)**  
+- **[Part II - Upgrade Ollama CLI to Node.js Server and Local GUI](https://youtu.be/YrV2Q_hCtw8?si=BZFdi5Ii8ub8qRnO&t=546)**  
+- **[Part III - Remote Access for Your Local LLM with ngrok & Vercel](https://youtu.be/Ky8DzoPFd4E?si=FafwZzuALVcYBsUl)**  
+
+
+### **Tech Stack:** *Node.js, Express, Ollama API, ngrok, Python, Flask, Streamlit, Vite, Vercel*  
+- **[Python/Flask Version](https://github.com/myopicOracle/run-local-llm-with-gui/tree/main/python-flask-streamlit-version)**  
+- **[React Frontend](https://github.com/myopicOracle/run-local-llm-with-gui/tree/main/react-frontend)** • **[Node Backend](https://github.com/myopicOracle/run-local-llm-with-gui/tree/main/backend)**  
+- **[Setup Guide](https://github.com/myopicOracle/run-local-llm-with-gui/tree/main?tab=readme-ov-file#3-ways-to-ollama-a-beginners-guide-to-the-galaxy)** • **[Monorepo](https://github.com/myopicOracle/run-local-llm-with-gui)**
 
 
 <br>
@@ -54,20 +63,20 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 ## YummyBuy E-Commerce
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
- 
->### [**Live Site**](https://www.yummybuy.ca/)
-- Create an account using SMS verification - no email or password required
-- Database: Cloud [Firestore] & Storage (Spark Plan Tier)
-- Landing Page: Made with [P5.js](https://p5js.org/)
-- Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/) (circa April 2025)
 
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
   <source src="/assets/yummybuy-demo.mp4" type="video/mp4">
   <img src="/assets/yummybuy-demo.gif" alt="YummyBuy.ca Loading Animation Demo">
 </video>
 
+### **Live Site**
+[**YummyBuy.ca**](https://www.yummybuy.ca/)
+- Create an account using SMS verification - no email or password required
+- Database: Cloud [Firestore] & Storage (Spark Plan Tier)
+- Landing Page: Made with [P5.js](https://p5js.org/)
+- Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/)
 
-**Key Features**: 
+### **Key Features:** 
 - SMS auth
 - Orders & user maangement
 - Data persistence using Cloud Firestore
@@ -75,8 +84,9 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 - Inventory management
 - Business analytics baked into admin view
 
-**Tech:** React, Node.js, Express, TailwindCSS  
-**[&#x1F4C3; Project Board](https://github.com/users/myopicOracle/projects/3)** • **[&#x1F4BB; Repository](https://github.com/myopicOracle/YummyBuy.ca)**
+### **Tech Stack:** *React, Node.js, Express, TailwindCSS*  
+
+**[&#x1F4CB; Project Board](https://github.com/users/myopicOracle/projects/3)** • **[&#x1F4BB; Repository](https://github.com/myopicOracle/YummyBuy.ca)**
 
 
 <br>
@@ -88,13 +98,13 @@ One of my first projects, and also easily one of the most memorable.
 
 #### Live Demo
 
-[![Library App Screenshot](/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
+[![Library App Screenshot](/assets/simple-library-v2.png)](https://thesimplelibrary.netlify.app/)
 
-&#x27A8; [Try the Live Demo](https://myopicoracle.github.io/prototypes-library/)
+➡️ [**Try the Live Demo**](https://thesimplelibrary.netlify.app/)
 
 Built with vanilla JavaScript, this project was my first taste of OOP, getting some reps in for prototypal-inheritance, JS classes, constructor functions, DOM manipulation, and local storage.
 
-#### What I Learned
+#### **What I Learned**
 
 - Object-oriented programming with JavaScript classes and prototypes
 - DOM manipulation and event handling
