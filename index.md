@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; white-space: pre; line-height: 1.6; margin-bottom: 1em; font-size: 2em;">
-<span style="color: #B5E853; font-weight: bold;">👋 Hi</span>        Hola     שלום     你好      こんにちは
-     <span style="color: #B5E853; font-weight: bold;">   I'm</span>   Soy        אני         我叫      私の名前は
-           <span style="color: #B5E853; font-weight: bold;">Gary</span>           גארי       夏戈      ゲイリー
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; white-space: pre; line-height: 1.6; margin-bottom: 1em; font-size: clamp(1.2rem, 2vw, 2.2rem);">
+<span style="color: #B5E853; font-weight: bold;">👋 Hi</span>        Hola     <span style="direction: rtl; unicode-bidi: bidi-override;">שלום</span>     你好      こんにちは
+     <span style="color: #B5E853; font-weight: bold;">   I'm</span>   Soy        <span style="direction: rtl; unicode-bidi: bidi-override;">אני</span>         我叫      私の名前は
+           <span style="color: #B5E853; font-weight: bold;">Gary</span>           <span style="direction: rtl; unicode-bidi: bidi-override;">גארי</span>       夏戈      ゲイリー
 </div>
 
 Former investment banker turned full-stack developer, with 500+ hours of hands-on coding through The Odin Project, Full Stack Open, and App Brewery. Proficient in JavaScript, React, Node.js, and Python, and hold certifications in AI (Azure, AWS), data analysis (IBM), and cloud (AWS). Interested in opportunities to build scalable systems at the intersection of web, data, and emerging technologies.
