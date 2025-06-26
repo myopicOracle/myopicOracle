@@ -1,8 +1,8 @@
-# Hi. 👋<br>&&. I'm || Me Llamo || 我叫<br>&&. Gary  
+# 👋 <span style="color: #FFF2E0;">Hi</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלום&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;こんにちは<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">I'm</span>&nbsp;&nbsp;&nbsp;Soy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אני&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我叫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;私の名前は<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">Gary</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גארי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏戈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ゲイリー
 
-Investment banker turned full-stack developer with 500+ hours of coding education through The Odin Project and Full Stack Open. Proficient in JavaScript, React, Node.js, and Python. Northwestern Economics grad bringing analytical rigor and financial domain expertise to software development. Seeking junior developer roles in web development, fintech, or data engineering.
+Former investment banker turned full-stack developer, with 500+ hours of hands-on coding through The Odin Project, Full Stack Open, and App Brewery. Proficient in JavaScript, React, Node.js, and Python, and hold certifications in AI (Azure, AWS), data analysis (IBM), and cloud (AWS). Interested in opportunities to build scalable systems at the intersection of web, data, and emerging technologies.
 
-> Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name))
+<span style="color: #FFF2E0;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
 
 
 <br>

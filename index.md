@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Hi. &#x1F44B;<br>&amp;&amp;. I'm || Me Llamo || &#x4F60;&#x53EB;&#x4EC0;<br>&amp;&amp; Gary  
+# 👋 <span style="color: #FFF2E0;">Hi</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלום&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;こんにちは<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">I'm</span>&nbsp;&nbsp;&nbsp;Soy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אני&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我叫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;私の名前は<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">Gary</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גארי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏戈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ゲイリー
 
-Investment banker turned full-stack developer with 500+ hours of coding education through The Odin Project and Full Stack Open. Proficient in JavaScript, React, Node.js, and Python. Northwestern Economics grad bringing analytical rigor and financial domain expertise to software development. Seeking junior developer roles in web development, fintech, or data engineering.
+Former investment banker turned full-stack developer, with 500+ hours of hands-on coding through The Odin Project, Full Stack Open, and App Brewery. Proficient in JavaScript, React, Node.js, and Python, and hold certifications in AI (Azure, AWS), data analysis (IBM), and cloud (AWS). Interested in opportunities to build scalable systems at the intersection of web, data, and emerging technologies.
 
-> Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name))
+<span style="color: #FFF2E0;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
 
 
 <br>
@@ -40,7 +40,7 @@ Investment banker turned full-stack developer with 500+ hours of coding educatio
 ### Handling Raw Bytes Stream from Ollama API Endpoint
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
   <source src="/assets/ollama_thumbnail_2.mp4" type="video/mp4">
-  <img src="/assets/ollama_thumbnail_2.gif" alt="Handling Raw Bytes Stream from Ollama API">
+  <img src="/assets/ollama_thumbnail_2.webp" alt="Handling Raw Bytes Stream from Ollama API">
 </video>
 
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
@@ -63,7 +63,7 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
   <source src="/assets/yummybuy-demo.mp4" type="video/mp4">
-  <img src="/assets/yummybuy-demo.gif" alt="YummyBuy.ca Loading Animation Demo">
+  <img src="/assets/yummybuy-demo.webp" alt="YummyBuy.ca Loading Animation Demo">
 </video>
 
 
