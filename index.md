@@ -2,16 +2,20 @@
 layout: default
 ---
 
-# 👋 <span style="color: #FFF2E0;">Hi</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלום&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;こんにちは<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">I'm</span>&nbsp;&nbsp;&nbsp;Soy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אני&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我叫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;私の名前は<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">Gary</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גארי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏戈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ゲイリー
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; white-space: pre; line-height: 1.6; margin-bottom: 1em; font-size: clamp(1.2rem, 2vw, 2.2rem);">
+<span style="color: #B5E853; font-weight: bold;">👋 Hi</span>        Hola     <span style="direction: rtl; unicode-bidi: bidi-override;">שלום</span>     你好      こんにちは
+     <span style="color: #B5E853; font-weight: bold;">   I'm</span>   Soy        <span style="direction: rtl; unicode-bidi: bidi-override;">אני</span>         我叫      私の名前は
+           <span style="color: #B5E853; font-weight: bold;">Gary</span>           <span style="direction: rtl; unicode-bidi: bidi-override;">גארי</span>       夏戈      ゲイリー
+</div>
 
 Former investment banker turned full-stack developer, with 500+ hours of hands-on coding through The Odin Project, Full Stack Open, and App Brewery. Proficient in JavaScript, React, Node.js, and Python, and hold certifications in AI (Azure, AWS), data analysis (IBM), and cloud (AWS). Interested in opportunities to build scalable systems at the intersection of web, data, and emerging technologies.
 
-<span style="color: #FFF2E0;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
+<span style="color: #B5E853;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
 
 
 <br>
 
-## Table of Contents
+## **Table of Contents**
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
   - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
@@ -23,21 +27,21 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
   - [Live Demo](https://simple-resume-app.netlify.app/)  •  [Documentation](https://github.com/myopicOracle/resume-builder)
 - **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
   - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repository](https://github.com/myopicOracle/calcutron-8000)
-- **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation)**  
+- **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation-sustainable-finance)**  
   - [Website](https://yuccapalms.org/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
-- **[Certifications & Bootcamps](#certifications--bootcamps)**  
-  - [The Odin Project - Full Stack JavaScript Track](#certifications--bootcamps)  •  [Full Stack Open - Core Certificate](#certifications--bootcamps)  •  [App Brewery - Full Stack Developer Certificate](#certifications--bootcamps)  •  [IBM Data Analyst Professional](#certifications--bootcamps)  •  [Microsoft Azure AI-900](#certifications--bootcamps)  •  [NPower Data Analyst Bootcamp](#certifications--bootcamps)
+- **[Certificates & Bootcamps](#certificates--bootcamps)**  
+  - [The Odin Project](#the-odin-project---full-stack-javascript-track)  •  [Full Stack Open](#full-stack-open---core-certificate)  •  [App Brewery](#app-brewery---full-stack-developer-certificate)  •  [IBM Data Analyst Professional](#ibm-data-analyst-professional)  •  [Microsoft Azure AI-900](#microsoft-azure-ai-900)
 - **[Tech Stack](#tech-stack)**
 - **[Let's Connect](#lets-connect)**
 
 
 <br>
 
-## Featured Project: Local LLM Integration Toolkit
+## **Featured Project: Local LLM Integration Toolkit**
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
-### Handling Raw Bytes Stream from Ollama API Endpoint
+### **Handling Raw Bytes Stream from Ollama API Endpoint**
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
   <source src="/assets/ollama_thumbnail_2.mp4" type="video/mp4">
   <img src="/assets/ollama_thumbnail_2.webp" alt="Handling Raw Bytes Stream from Ollama API">
@@ -51,7 +55,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 <br>
 
-## YummyBuy E-Commerce
+## **YummyBuy E-Commerce**
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
  
@@ -81,12 +85,12 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 
 <br>
 
-## The Simple Library 
+## **The Simple Library** 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
 
 One of my first projects, and also easily one of the most memorable.
 
-#### Live Demo
+#### **Live Demo**
 
 [![Library App Screenshot](/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
 
@@ -107,7 +111,7 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 
 <br>
 
-## Resume Builder React App
+## **Resume Builder React App**
 *Interactive resume builder with persistent state*
 
 ![Resume Builder Screenshot](/assets/simple-resume-app.png)
@@ -120,7 +124,7 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 
 <br>
 
-## Calcutron 8000 Calculator
+## **Calcutron 8000 Calculator**
 *Vanilla JavaScript calculator with elegant UX*
 
 ![Calculator Screenshot](/assets/calcutron-8000-v1.png)
@@ -133,7 +137,7 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 
 <br>
 
-## The Joshua Tree Foundation: Sustainable Finance  
+## **The Joshua Tree Foundation: Sustainable Finance**  
 *Non-Profit Sustainable Finance Inititative*
 
 A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace&#x2122; and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
@@ -154,7 +158,7 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 
 <br>
 
-## Tech Stack
+## **Tech Stack**
 
 ### **Languages/Runtimes:** 
 - JavaScript / Node.js  
@@ -186,7 +190,7 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 
 <br>
 
-## Certificates & Bootcamps
+## **Certificates & Bootcamps**
 
 ### **Completed:**   
 ##### *The Odin Project (Nov 2024 - Jun 2025)* 
@@ -214,12 +218,12 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 - AWS Certified Machine Learning Engineer - Associate [MLA-C01]
 
 ### **See Certifications & Licenses**
-#### [certified.garyxia.com](https://certified.garyxia.com/)
+#### **[certified.garyxia.com](https://certified.garyxia.com/)**
 
 
 <br>
 
-## Let's Connect
+## **Let's Connect**
 
 Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
 

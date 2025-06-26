@@ -7,7 +7,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 <br>
 
-## Table of Contents
+## **Table of Contents**
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
   - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
@@ -19,21 +19,26 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
   - [Live Demo](https://simple-resume-app.netlify.app/)  •  [Documentation](https://github.com/myopicOracle/resume-builder)
 - **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
   - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repository](https://github.com/myopicOracle/calcutron-8000)
-- **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation)**  
+- **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation-sustainable-finance)**  
   - [Website](https://yuccapalms.org/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
+<<<<<<< HEAD
 - **[Certifications & Bootcamps](#certifications)**  
   - [The Odin Project - Full Stack JavaScript Track](#certifications)  •  [Full Stack Open - Core Certificate](#certifications)  •  [App Brewery - Full Stack Developer Certificate](#certifications)  •  [IBM Data Analyst Professional](#certifications)  •  [Microsoft Azure AI-900](#certifications)  •  [NPower Data Analyst Bootcamp](#certifications)
+=======
+- **[Certificates & Bootcamps](#certificates--bootcamps)**  
+  - [The Odin Project](#the-odin-project---full-stack-javascript-track)  •  [Full Stack Open](#full-stack-open---core-certificate)  •  [App Brewery Bootcamp](#app-brewery---full-stack-developer-certificate)  •  [IBM Data Analyst Professional](#ibm-data-analyst-professional)  •  [Microsoft Azure AI-900](#microsoft-azure-ai-900)  
+>>>>>>> 4f3d2f2 (nit: bold all markdown level headings)
 - **[Tech Stack](#tech-stack)**
 - **[Let's Connect](#lets-connect)**
 
 
 <br>
 
-## Featured Project: Local LLM Integration Toolkit
+## **Featured Project: Local LLM Integration Toolkit**
 
 **End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
-### Handling Raw Bytes Stream from Ollama API Endpoint
+### **Handling Raw Bytes Stream from Ollama API Endpoint**
 ![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2.gif)  
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)**
 
@@ -43,7 +48,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 <br>
 
-## YummyBuy E-Commerce
+## **YummyBuy E-Commerce**
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
  
@@ -69,12 +74,12 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 
 <br>
 
-## The Simple Library 
+## **The Simple Library** 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
 
 One of my first projects, and also easily one of the most memorable.
 
-#### Live Demo
+#### **Live Demo**
 
 [![Library App Screenshot](/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
 
@@ -95,7 +100,7 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 
 <br>
 
-## Resume Builder React App
+## **Resume Builder React App**
 *Interactive resume builder with persistent state*
 
 ![Resume Builder Screenshot](/assets/simple-resume-app.png)
@@ -108,7 +113,7 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 
 <br>
 
-## Calcutron 8000 Calculator
+## **Calcutron 8000 Calculator**
 *Vanilla JavaScript calculator with elegant UX*
 
 ![Calculator Screenshot](/assets/calcutron-8000-v1.png)
@@ -121,7 +126,7 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 
 <br>
 
-## The Joshua Tree Foundation: Sustainable Finance  
+## **The Joshua Tree Foundation: Sustainable Finance**  
 *Non-Profit Sustainable Finance Inititative*
 
 A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
@@ -144,7 +149,7 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 
 <br>
 
-## Tech Stack
+## **Tech Stack**
 
 ### **Languages/Runtimes:** 
 - JavaScript / Node.js  
@@ -176,7 +181,7 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 
 <br>
 
-## Certificates & Bootcamps
+## **Certificates & Bootcamps**
 
 ### **Completed:**   
 ##### *The Odin Project (Nov 2024 - Jun 2025)* 
@@ -204,12 +209,12 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 - AWS Certified Machine Learning Engineer - Associate [MLA-C01]
 
 ### **See Certifications & Licenses**
-#### [certified.garyxia.com](https://certified.garyxia.com/)
+#### **[certified.garyxia.com](https://certified.garyxia.com/)**
 
 
 <br>
 
-## Let's Connect
+## **Let's Connect**
 
 Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
 
