@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; white-space: pre; line-height: 1.6; margin-bottom: 1em;">
-<span style="color: #39FF14; font-weight: bold; font-size: 1.05em;">👋 Hi</span>        Hola     שלום     你好      こんにちは
-     <span style="color: #39FF14; font-weight: bold; font-size: 1.05em;">   I'm</span>   Soy        אני         我叫      私の名前は
-           <span style="color: #39FF14; font-weight: bold; font-size: 1.05em;">Gary</span>           גארי       夏戈      ゲイリー
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; white-space: pre; line-height: 1.6; margin-bottom: 1em; font-size: 2em;">
+<span style="color: #8653E8; font-weight: bold;">👋 Hi</span>        Hola     שלום     你好      こんにちは
+     <span style="color: #8653E8; font-weight: bold;">   I'm</span>   Soy        אני         我叫      私の名前は
+           <span style="color: #8653E8; font-weight: bold;">Gary</span>           גארי       夏戈      ゲイリー
 </div>
 
 Former investment banker turned full-stack developer, with 500+ hours of hands-on coding through The Odin Project, Full Stack Open, and App Brewery. Proficient in JavaScript, React, Node.js, and Python, and hold certifications in AI (Azure, AWS), data analysis (IBM), and cloud (AWS). Interested in opportunities to build scalable systems at the intersection of web, data, and emerging technologies.
 
-<span style="color: #39FF14;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
+<span style="color: #8653E8;">*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*</span>
 
 
 <br>
