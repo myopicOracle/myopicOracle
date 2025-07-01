@@ -10,7 +10,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 ## **Table of Contents**
 
 - **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/local-llm-guide)
+  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Documentation](https://github.com/myopicOracle/run-local-llm-with-gui)
 - **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
   - [Live Site](https://www.yummybuy.ca/)  •  [Project Board](https://github.com/users/myopicOracle/projects/3)
 - **[The Simple Library](#the-simple-library)**  
