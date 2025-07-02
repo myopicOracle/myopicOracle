@@ -21,13 +21,8 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
   - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repository](https://github.com/myopicOracle/calcutron-8000)
 - **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation-sustainable-finance)**  
   - [Website](https://yuccapalms.org/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
-<<<<<<< HEAD
-- **[Certifications & Bootcamps](#certifications)**  
-  - [The Odin Project - Full Stack JavaScript Track](#certifications)  •  [Full Stack Open - Core Certificate](#certifications)  •  [App Brewery - Full Stack Developer Certificate](#certifications)  •  [IBM Data Analyst Professional](#certifications)  •  [Microsoft Azure AI-900](#certifications)  •  [NPower Data Analyst Bootcamp](#certifications)
-=======
 - **[Certificates & Bootcamps](#certificates--bootcamps)**  
   - [The Odin Project](#the-odin-project---full-stack-javascript-track)  •  [Full Stack Open](#full-stack-open---core-certificate)  •  [App Brewery Bootcamp](#app-brewery---full-stack-developer-certificate)  •  [IBM Data Analyst Professional](#ibm-data-analyst-professional)  •  [Microsoft Azure AI-900](#microsoft-azure-ai-900)  
->>>>>>> 4f3d2f2 (nit: bold all markdown level headings)
 - **[Tech Stack](#tech-stack)**
 - **[Let's Connect](#lets-connect)**
 

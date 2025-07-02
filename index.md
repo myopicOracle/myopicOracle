@@ -39,7 +39,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 ## **Featured Project: Local LLM Integration Toolkit**
 
-**End-to-end AI infrastructure built from scratch** — Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
+**End-to-end AI infrastructure built from scratch** - Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
 ### **Handling Raw Bytes Stream from Ollama API Endpoint**
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
