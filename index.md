@@ -17,16 +17,18 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 ## **Table of Contents**
 
-- **[Featured Project: Local LLM Integration Toolkit](#featured-project-local-llm-integration-toolkit)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}  •  [Documentation](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"}
+- **[3D Metaverse: Built on Ethereum & Three.js, Powered by AI](#3d-metaverse-built-on-ethereum--threejs-powered-by-ai)**  
+  - [Live Demo](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/myopic-metaverse){:target="_blank" rel="noopener noreferrer"}
+- **[End-to-End AI Infrastructure: Deploy Local LLM Remotely](#end-to-end-ai-infrastructure-deploy-local-llm-remotely)**  
+  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"}
 - **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
   - [Live Site](https://www.yummybuy.ca/){:target="_blank" rel="noopener noreferrer"}  •  [Project Board](https://github.com/users/myopicOracle/projects/3){:target="_blank" rel="noopener noreferrer"}
 - **[The Simple Library](#the-simple-library)**  
-  - [Live Demo](https://myopicoracle.github.io/prototypes-library/){:target="_blank" rel="noopener noreferrer"}  •  [Documentation](https://github.com/myopicOracle/prototypes-library){:target="_blank" rel="noopener noreferrer"}
+  - [Live Demo](https://myopicoracle.github.io/prototypes-library/){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/prototypes-library){:target="_blank" rel="noopener noreferrer"}
 - **[Resume Builder React App](#resume-builder-react-app)**  
-  - [Live Demo](https://simple-resume-app.netlify.app/){:target="_blank" rel="noopener noreferrer"}  •  [Documentation](https://github.com/myopicOracle/resume-builder){:target="_blank" rel="noopener noreferrer"}
+  - [Live Demo](https://simple-resume-app.netlify.app/){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/resume-builder){:target="_blank" rel="noopener noreferrer"}
 - **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
-  - [Live Demo](https://calcutron-8000.netlify.app/){:target="_blank" rel="noopener noreferrer"}  •  [Repository](https://github.com/myopicOracle/calcutron-8000){:target="_blank" rel="noopener noreferrer"}
+  - [Live Demo](https://calcutron-8000.netlify.app/){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/calcutron-8000){:target="_blank" rel="noopener noreferrer"}
 - **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation-sustainable-finance)**  
   - [Website](https://yuccapalms.org/){:target="_blank" rel="noopener noreferrer"}  •  [Instagram](https://www.instagram.com/joshuatreefoundation/){:target="_blank" rel="noopener noreferrer"}  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation){:target="_blank" rel="noopener noreferrer"}
 - **[Certificates & Bootcamps](#certificates--bootcamps)**  
@@ -37,9 +39,37 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 <br>
 
-## **Featured Project: Local LLM Integration Toolkit**
+## **3D Metaverse: Built on Ethereum & Three.js, Powered by AI**
 
-**End-to-end AI infrastructure built from scratch** - Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
+A proof-of-concept metaverse that combines blockchain technology with AI to create an interactive 3D environment with true digital ownership and intelligent NPCs.
+
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
+  <source src="/assets/myopicmetaverse-demo.mp4" type="video/mp4">
+  <img src="/assets/myopicmetaverse-demo.gif" alt="MyopicMetaverse Demo">
+</video>
+
+**Key Features:**
+- **Web3 Authentication**: Secure Sign-In With Ethereum (SIWE) via MetaMask
+- **AI-Powered NPCs**: Dynamic characters powered by Google Gemini API
+- **3D Environment**: Custom-built interactive world using Three.js
+- **Digital Ownership**: Foundation for future fungible digital assets
+- **Contextual Awareness**: Advanced prompt engineering for immersive interactions
+
+>### [**Live Demo**](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app){:target="_blank" rel="noopener noreferrer"}
+- Experience Web3 authentication with MetaMask
+- Interact with AI-powered NPCs in real-time
+- Explore the custom 3D environment
+- No installation required - works directly in your browser
+
+**Tech:** Three.js, Ethereum, Web3.js, Google Gemini API, Node.js  
+[Project Repo](https://github.com/myopicOracle/myopic-metaverse){:target="_blank" rel="noopener noreferrer"}
+
+<br>
+
+
+## **End-to-End AI Infrastructure: Deploy Local LLM Remotely**
+
+**Complete solution** for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
 
 ### **Handling Raw Bytes Stream from Ollama API Endpoint**
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
@@ -50,26 +80,19 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 **[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230){:target="_blank" rel="noopener noreferrer"}**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-[📖 Full Documentation](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"} • [🎥 Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}
-
+[Documentation](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"} • [Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **YummyBuy E-Commerce**
 
 Built for a home business owner who needed a bespoke pre-order and customer/order management system + admin dashboard, but was frustrated with no-code website builders.
- 
->### [**Live Site**](https://www.yummybuy.ca/){:target="_blank" rel="noopener noreferrer"}
-- Create an account using SMS verification - no email or password required
-- Database: Cloud [Firestore] & Storage (Spark Plan Tier)
-- Landing Page: Made with [P5.js](https://p5js.org/){:target="_blank" rel="noopener noreferrer"}
-- Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/){:target="_blank" rel="noopener noreferrer"} (circa April 2025)
 
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 6px;">
   <source src="/assets/yummybuy-demo.mp4" type="video/mp4">
   <img src="/assets/yummybuy-demo.webp" alt="YummyBuy.ca Loading Animation Demo">
 </video>
-
 
 **Key Features**: 
 - SMS auth
@@ -79,11 +102,17 @@ Built for a home business owner who needed a bespoke pre-order and customer/orde
 - Inventory management
 - Business analytics baked into admin view
 
-**Tech:** React, Node.js, Express, TailwindCSS  
-[📋 Project Board](https://github.com/users/myopicOracle/projects/3){:target="_blank" rel="noopener noreferrer"} • [💻 Repository](https://github.com/myopicOracle/YummyBuy.ca){:target="_blank" rel="noopener noreferrer"}
+>### [**Live Site**](https://www.yummybuy.ca/){:target="_blank" rel="noopener noreferrer"}
+- Create an account using SMS verification - no email or password required
+- Database: Cloud [Firestore] & Storage (Spark Plan Tier)
+- Landing Page: Made with [P5.js](https://p5js.org/){:target="_blank" rel="noopener noreferrer"}
+- Loading Animation: Created with [Google Veo2](https://deepmind.google/models/veo/){:target="_blank" rel="noopener noreferrer"} (circa April 2025)
 
+**Tech:** React, Node.js, Express, TailwindCSS  
+[Project Board](https://github.com/users/myopicOracle/projects/3){:target="_blank" rel="noopener noreferrer"} • [Repository](https://github.com/myopicOracle/YummyBuy.ca){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **The Simple Library** 
 *Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
@@ -106,10 +135,10 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 - Responsive web design principles
 - Code organization and project structure
 
-[📖 Documentation](https://github.com/myopicOracle/prototypes-library){:target="_blank" rel="noopener noreferrer"}
-
+[Documentation](https://github.com/myopicOracle/prototypes-library){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **Resume Builder React App**
 *Interactive resume builder with persistent state*
@@ -119,10 +148,10 @@ Built with vanilla JavaScript, this project was my first taste of OOP, getting s
 Clean, functional resume builder demonstrating React fundamentals. Features component-based architecture, form state management with hooks, and seamless edit/display mode switching. Built with DRY principles and reusable components.
 
 **Tech:** React, JavaScript, CSS  
-[🔗 Live Demo](https://simple-resume-app.netlify.app/){:target="_blank" rel="noopener noreferrer"} • [📖 Documentation](https://github.com/myopicOracle/resume-builder){:target="_blank" rel="noopener noreferrer"}
-
+[🔗 Live Demo](https://simple-resume-app.netlify.app/){:target="_blank" rel="noopener noreferrer"} • [Documentation](https://github.com/myopicOracle/resume-builder){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **Calcutron 8000 Calculator**
 *Vanilla JavaScript calculator with elegant UX*
@@ -132,10 +161,10 @@ Clean, functional resume builder demonstrating React fundamentals. Features comp
 Built from scratch using vanilla JavaScript with thoughtful edge case handling (including a snarky "Nice try!" for division by zero). Features proper operation logic, real-time display updates, and polished responsive design.
 
 **Tech:** JavaScript, HTML5, CSS3  
-[🔗 Live Demo](https://calcutron-8000.netlify.app/){:target="_blank" rel="noopener noreferrer"} • [💻 Repository](https://github.com/myopicOracle/calcutron-8000){:target="_blank" rel="noopener noreferrer"}
-
+[🔗 Live Demo](https://calcutron-8000.netlify.app/){:target="_blank" rel="noopener noreferrer"} • [Repository](https://github.com/myopicOracle/calcutron-8000){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **The Joshua Tree Foundation: Sustainable Finance**  
 *Non-Profit Sustainable Finance Inititative*
@@ -153,10 +182,10 @@ At its core, the project facilitates the planting of trees to sequester carbon d
 As the tree matures and absorbs more CO2, you are intended to share in the benefits of the carbon offsets it generates. The project aims to operate within the voluntary carbon markets and is developing a suite of digital asset products, including a decentralized exchange for carbon credits.
 
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
-[🌳 Joshua Tree Foundation](https://yuccapalms.org/){:target="_blank" rel="noopener noreferrer"} • [Instagram](https://www.instagram.com/joshuatreefoundation/){:target="_blank" rel="noopener noreferrer"} • [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation){:target="_blank" rel="noopener noreferrer"}
-
+[Joshua Tree Foundation](https://yuccapalms.org/){:target="_blank" rel="noopener noreferrer"} • [Instagram](https://www.instagram.com/joshuatreefoundation/){:target="_blank" rel="noopener noreferrer"} • [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation){:target="_blank" rel="noopener noreferrer"}
 
 <br>
+
 
 ## **Tech Stack**
 
@@ -187,8 +216,8 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 - Svelte  
 - Rust  
 
-
 <br>
+
 
 ## **Certificates & Bootcamps**
 
@@ -220,15 +249,15 @@ As the tree matures and absorbs more CO2, you are intended to share in the benef
 ### **See Certifications & Licenses**
 #### [certified.garyxia.com](https://certified.garyxia.com/){:target="_blank" rel="noopener noreferrer"}
 
-
 <br>
+
 
 ## **Let's Connect**
 
 Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
 
-[**&#x1F468;&#x200D;&#x1F4BB; LinkedIn**](https://linkedin.com/in/xiagary){:target="_blank" rel="noopener noreferrer"}  
-[**&#x2709; Email**](mailto:garebearcodes@gmail.com)  
-[**&#x1F40D; GitHub**](https://github.com/myopicOracle){:target="_blank" rel="noopener noreferrer"}
+[**LinkedIn**](https://linkedin.com/in/xiagary){:target="_blank" rel="noopener noreferrer"}  
+[**Email**](mailto:garebearcodes@gmail.com)  
+[**GitHub**](https://github.com/myopicOracle){:target="_blank" rel="noopener noreferrer"}
 
-> *last updated June 23, 2025*
+> *Last updated: July 5, 2025*
