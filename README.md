@@ -12,7 +12,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 - **[3D Metaverse: Built on Ethereum & Three.js, Powered by AI](#3d-metaverse-built-on-ethereum--threejs-powered-by-ai)**  
   - [Live Demo](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app)  •  [Repo](https://github.com/myopicOracle/myopic-metaverse)
 - **[End-to-End AI Infrastructure: Deploy Local LLM Remotely](#end-to-end-ai-infrastructure-deploy-local-llm-remotely)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY)  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui)
+  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui)
 - **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
   - [Live Site](https://www.yummybuy.ca/)  •  [Project Board](https://github.com/users/myopicOracle/projects/3)
 - **[The Simple Library](#the-simple-library)**  
@@ -62,10 +62,10 @@ Complete solution for running large language models locally using Ollama, featur
 
 ### **Handling Raw Bytes Stream from Ollama API Endpoint**
 ![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2.gif)  
-[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230)
+[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-[Project Repo](https://github.com/myopicOracle/run-local-llm-with-gui) • [Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY)
+[Project Repo](https://github.com/myopicOracle/run-local-llm-with-gui) • [Video Walkthroughs on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)
 
 <br>
 

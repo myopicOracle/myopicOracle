@@ -20,7 +20,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 - **[3D Metaverse: Built on Ethereum & Three.js, Powered by AI](#3d-metaverse-built-on-ethereum--threejs-powered-by-ai)**  
   - [Live Demo](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/myopic-metaverse){:target="_blank" rel="noopener noreferrer"}
 - **[End-to-End AI Infrastructure: Deploy Local LLM Remotely](#end-to-end-ai-infrastructure-deploy-local-llm-remotely)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"}
+  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12){:target="_blank" rel="noopener noreferrer"}  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"}
 - **[YummyBuy E-Commerce](#yummybuy-e-commerce)**  
   - [Live Site](https://www.yummybuy.ca/){:target="_blank" rel="noopener noreferrer"}  •  [Project Board](https://github.com/users/myopicOracle/projects/3){:target="_blank" rel="noopener noreferrer"}
 - **[The Simple Library](#the-simple-library)**  
@@ -77,10 +77,10 @@ A proof-of-concept metaverse that combines blockchain technology with AI to crea
   <img src="/assets/ollama_thumbnail_2.webp" alt="Handling Raw Bytes Stream from Ollama API">
 </video>
 
-**[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=yeECOJN9WFXIBH30&t=230){:target="_blank" rel="noopener noreferrer"}**
+**[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12){:target="_blank" rel="noopener noreferrer"}**
 
 **Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-[Documentation](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"} • [Video Walkthroughs on YouTube](https://youtu.be/meABLedKNhY){:target="_blank" rel="noopener noreferrer"}
+[Documentation](https://github.com/myopicOracle/run-local-llm-with-gui){:target="_blank" rel="noopener noreferrer"} • [Video Walkthroughs on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12){:target="_blank" rel="noopener noreferrer"}
 
 <br>
 
