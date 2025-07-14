@@ -150,19 +150,25 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 <br>
 
 ## **The Joshua Tree Foundation: Sustainable Finance**  
-*Non-Profit Sustainable Finance Inititative*
 
-A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
+*A Double-Bottoms Sustainable Finance Inititative*
+
+The voluntary carbon market (VCM) is projected to become a $100 billion industry by 2030 (Morgan Stanley), yet it remains opaque, illiquid, and plagued by issues of transparency. The Joshua Tree Foundation began as an initiative to build the high-integrity financial infrastructure for this new era of environmental assets.
+
+We seek to create a comprehensive sustainability platform that starts with a novel, high-integrity asset: the NFTree. Each NFTree is a blockchain-based digital certificate representing a specific, planted tree, granting the holder a lease on the land and a share in the verified carbon offsets it generates. This isn't just about planting trees; it's about creating a new, transparent, and liquid asset class.
+
+We futher seek to perfect an immutable, traceable ledger (Carbon X-Trace™) to provide unparalleled transparency and verification, paired with a decentralized exchange that will unlock global liquidity for these and other environmental assets. We are not just another green initiative; we are building the definitive platform for the tokenization and trading of carbon assets.
+
+[*wwwyuccapalms.org*](https://yuccapalms.org/)
+
+> **"Tokenizing the Future of Carbon Finance"**
 
 ![CarbonXchange Homepage](/assets/jtf-hero.png)
 ![Mission: Advance #SustainableFinance](/assets/jtf-mission.png)
 ![Net Zero Framework](/assets/jtf-tech.png)
 
-The Yucca Palms project, also known as The Joshua Tree Foundation, is a sustainable finance initiative that combines environmentalism with blockchain technology.
-
-At its core, the project facilitates the planting of trees to sequester carbon dioxide. When you fund a tree, you receive a digital certificate of ownership in the form of an NFT (Non-Fungible Token), which they call an "NFTree." This token represents the physical tree and is recorded on a blockchain, also granting you a lease on the land where it grows.
-
-As the tree matures and absorbs more CO2, you are intended to share in the benefits of the carbon offsets it generates. The project aims to operate within the voluntary carbon markets and is developing a suite of digital asset products, including a decentralized exchange for carbon credits.
+**TL;DR:**  
+A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
 
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
 [🌳 Joshua Tree Foundation](https://yuccapalms.org/) • [Instagram](https://www.instagram.com/joshuatreefoundation/) • [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation) 
