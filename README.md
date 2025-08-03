@@ -22,7 +22,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 - **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
   - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repo](https://github.com/myopicOracle/calcutron-8000)
 - **[The Joshua Tree Foundation: Sustainable Finance](#the-joshua-tree-foundation-sustainable-finance)**  
-  - [Website](https://yuccapalms.org/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
+  - [Website](https://carbonxtrace.com/)  •  [Instagram](https://www.instagram.com/joshuatreefoundation/)  •  [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation)
 - **[Certificates & Bootcamps](#certificates--bootcamps)**  
   - [The Odin Project](#the-odin-project---full-stack-javascript-track)  •  [Full Stack Open](#full-stack-open---core-certificate)  •  [App Brewery Bootcamp](#app-brewery-bootcamp)  •  [IBM Data Analyst Professional](#ibm-data-analyst-professional)  •  [Microsoft Azure AI-900](#microsoft-azure-ai-900)  
 - **[Tech Stack](#tech-stack)**
@@ -151,15 +151,29 @@ Built from scratch using vanilla JavaScript with thoughtful edge case handling (
 
 ## **The Joshua Tree Foundation: Sustainable Finance**  
 
-*A Double-Bottoms Sustainable Finance Inititative*
+*"A Double-Bottoms Sustainable Finance Inititative"*
 
-The voluntary carbon market (VCM) is projected to become a $100 billion industry by 2030 (Morgan Stanley), yet it remains opaque, illiquid, and plagued by issues of transparency. The Joshua Tree Foundation began as an initiative to build the high-integrity financial infrastructure for this new era of environmental assets.
+In 2023, I turned 6,000 acres of tax-draining Mojave Desert land into an environmental asset by connecting three disconnected system - conservation law, carbon markets, and blockchain.
 
-We seek to create a comprehensive sustainability platform that starts with a novel, high-integrity asset: the NFTree. Each NFTree is a blockchain-based digital certificate representing a specific, planted tree, granting the holder a lease on the land and a share in the verified carbon offsets it generates. This isn't just about planting trees; it's about creating a new, transparent, and liquid asset class.
+In the early 2000s, the company I work for (Cador) acquired a strategic portfolio of over 6,000 acres in the Mojave Desert (2,000 acres directly owned, another 4,000 managed on behalf of real estate investors). These parcels were concentrated around Yucca Valley (CA), Kingman (AZ), and Lake Havasu (AZ).
 
-We futher seek to perfect an immutable, traceable ledger (Carbon X-Trace™) to provide unparalleled transparency and verification, paired with a decentralized exchange that will unlock global liquidity for these and other environmental assets. We are not just another green initiative; we are building the definitive platform for the tokenization and trading of carbon assets.
+The original investment thesis was shaped by the momentum behind projects like Interstate 11 (I-11), envisioned as a high-speed, multimodal corridor connecting Mexico to Canada via Phoenix and Las Vegas, the Brightline West high-speed rail (originally DesertXpress/XpressWest), and Kinder Morgan’s Calnev Pipeline expansion.
 
-[*wwwyuccapalms.org*](https://yuccapalms.org/)
+In parallel, our company had launched a $150M luxury resort project in Kingman, Arizona, meant to capitalize on the expected traffic and tourism from I-11. The 2008 financial crisis, followed by infrastructure setbacks and capital withdrawal, forced the project’s cancellation by 2011.
+
+As a result, what had once been a promising speculative land play became a financial burden. By the 2020s, the land was generating no income and only property tax obligations.
+
+That’s the context in which I began rethinking the value of this land.
+
+While visiting these parcels, I noticed our acreage hosted a dense population of Yucca Brevifolia (aka Joshua Trees), which aside from the musical festival, I knew little about. As I dug deeper, I realized that this species thrives mainly in Lost Horse Valley in Joshua Tree National Park and only a few other regions - one being Mohave County, Arizona, where our land was located. That made our property one of the few dense, naturally occurring (and commercially-available) populations outside a national park.
+
+Then in June 2023, California passed the Western Joshua Tree Conservation Act, classifying the plant as threatened due to climate change and imposing penalties of up to $2,500 for removal, relocation, or trimming of limbs (including dead trees and limbs!).
+
+As a student of economics, I saw asset scarcity where others saw increased regulatory burden. That's why I launched "The Joshua Tree Foundation", to turn these protected trees into crypto assets called “NFTrees.” Each NFT represented an individual tree and included carbon offset rights and land leasing access.
+
+The project attracted 200+ LinkedIn followers, 100+ Instagram followers, and board members including a former US Head of IT at Santander, an ExxonMobil VP, and a ClimateTech VC partner. But the crypto winter and AI's rise shifted attention away from carbon offsets, so I put it on the backburner (though the site is still live at [*carbonxtrace.com*](https://carbonxtrace.com/)).
+
+More importantly, struggling to build the technical infrastructure myself sparked my transition from finance to software engineering. I spent the last 1.5 years learning full-stack development, AI integration, and ML deployment
 
 > **"Tokenizing the Future of Carbon Finance"**
 
@@ -167,11 +181,25 @@ We futher seek to perfect an immutable, traceable ledger (Carbon X-Trace™) to 
 ![Mission: Advance #SustainableFinance](/assets/jtf-mission.png)
 ![Net Zero Framework](/assets/jtf-tech.png)
 
+The voluntary carbon market (VCM) is projected to become a $100 billion industry by 2030 (Morgan Stanley), yet it remains opaque, illiquid, and challenged by transparency issues. The Joshua Tree Foundation began as an initiative to build the high-integrity financial infrastructure for this new era of environmental assets.
+
+It started with an implausible idea. That by leveraging the recently endangered status of Yucca Palms (aka Joshua Trees), we could commoditize this natural asset through blockchain and gamification, dramatically increasing its revenue-generating potential while driving conservation.
+
+Our ambitious plan protects over 6,000 acres of privately held family forests in the Mojave Desert (including 4,167 acres in Mohave County), mostly arable land suitable for Joshua Tree reforestation. These iconic plants grow only in California’s Joshua Tree National Park, the Mojave Desert, and parts of northern New Mexico.
+
+Joshua Trees made history as California’s first plant species listed as threatened due to climate change (June 28, 2023). Without intervention, UC Riverside scientists predict their global population could fall to just 2% by century’s end.
+
+We're developing a comprehensive sustainability platform starting with a novel, high-integrity asset: the NFTree. Each NFTree is a blockchain-based certificate representing a specific, planted tree - granting the holder a lease on the land and a share in the verified carbon offsets it generates. This isn't just about planting trees; it's about creating a transparent, liquid, and tradable asset class.
+
+We also aim to perfect an immutable, traceable ledger - Carbon X-Trace™ - to deliver unparalleled transparency and verification. Paired with a decentralized exchange, this system will unlock global liquidity for carbon and other environmental assets. 
+
+Visit - [*carbonxtrace.com*](https://carbonxtrace.com/) - to discover how we're revolutionizing conservation economics.
+
 **TL;DR:**  
 A comprehensive sustainability platform exploring carbon offset initiatives through innovative products like Carbon X-Trace™ and blockchain-backed NFTrees. Features in-depth analysis of carbon markets, Net Zero frameworks, and accessible environmental education through structured digital storytelling.  
 
 **Focus:** Branding, Sustainable Finance, Fundraising, Sales & Marketing, Climate Tech, Blockchain  
-[🌳 Joshua Tree Foundation](https://yuccapalms.org/) • [Instagram](https://www.instagram.com/joshuatreefoundation/) • [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation) 
+[🌳 Joshua Tree Foundation](https://carbonxtrace.com/) • [Instagram](https://www.instagram.com/joshuatreefoundation/) • [LinkedIn](https://www.linkedin.com/company/joshua-tree-foundation) 
 
 
 <br>
