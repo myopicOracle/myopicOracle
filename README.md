@@ -9,6 +9,8 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 
 ## **Table of Contents**
 
+- **[Pollyglot - AI Language Learning Assistant](#pollyglot---ai-language-learning-assistant)**  
+  - [Project Repo](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/)
 - **[3D Metaverse: Built on Ethereum & Three.js, Powered by AI](#3d-metaverse-built-on-ethereum--threejs-powered-by-ai)**  
   - [Live Demo](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app)  •  [Repo](https://github.com/myopicOracle/myopic-metaverse)
 - **[End-to-End AI Infrastructure: Deploy Local LLM Remotely](#end-to-end-ai-infrastructure-deploy-local-llm-remotely)**  
@@ -28,8 +30,42 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 - **[Tech Stack](#tech-stack)**
 - **[Let's Connect](#lets-connect)**
 
+
 <br>
 
+## **Pollyglot - AI Language Learning Assistant**
+*Interactive French language tutor powered by OpenAI*
+
+Built to cement concepts from Scrimba's ["The AI Engineer Path"](https://scrimba.com/the-ai-engineer-path-c02v) course - specifically OpenAI API integration, zero-shot vs few-shot prompting, and parameter tuning (temperature, stop-sequences, frequency/presence penalties). 
+
+Beyond the core implementation, I explored OpenAI's ecosystem including their [Fine-Tuning](https://platform.openai.com/finetune) tool, [Playground](https://platform.openai.com/chat) for model experimentation, and [Model Evaluation](https://platform.openai.com/evaluations) capabilities. For developers seeking cost-effective alternatives, I've documented how to adapt the OpenAI library to work with [Gemini API's OpenAI compatibility](https://ai.google.dev/gemini-api/docs/openai) layer.
+
+*Adapted Learning Resources:* [API Implementation Guides](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/docs) • [Alternative API Implementations](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/gemini-alt)
+
+**AI Usage:** Made a deliberate effort to minimize AI use, turning off tab-complete and even React snippets. It came at the cost of less design polish, but paid back in full in the form of my own sanity and helping me remember that I'm still capable of writing a full stack React/Node app without it. I used AI to generate the README.md file, and to ask for clarification on dependencies, CORS configuration, and to debug the server setup, but I did not use AI to generate any of the actual code for this project. 
+
+![Pollyglot Language Learning Interface](/assets/project-pollyglot-demo.png)
+
+AI-powered language learning application that helps users practice French through interactive translation and conversation. Built with React and powered by OpenAI's GPT models, featuring advanced few-shot prompt engineering for consistent, encouraging responses from a patient French instructor persona.
+
+**Key Features**:
+- **Real-time Translation**: Instant French language assistance and explanations
+- **Advanced Prompt Engineering**: Few-shot prompting with consistent instructor personality
+- **Clean Interface**: Minimalist design focused on learning experience
+- **Responsive Design**: Works seamlessly across all devices
+- **Modern Architecture**: Full-stack React/Node.js implementation
+
+#### **[Live Demo Forthcoming (If y'all promise not to use up all my credits!)]()**
+- Practice French with an AI language instructor
+- Get instant translations and cultural context
+- Experience beginner-friendly explanations
+- No registration required
+
+**Tech:** React, Vite, Node.js, Express, OpenAI API  
+[Project Repo](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/)
+
+
+<br>
 
 ## **3D Metaverse: Built on Ethereum & Three.js, Powered by AI**
 
