@@ -42,7 +42,7 @@ Former investment banker turned full-stack developer, with 500+ hours of hands-o
 <br>
 
 ## **Pollyglot - AI Language Learning Assistant**
-*Interactive French language tutor powered by OpenAI*
+*Interactive language tutor powered by OpenAI*
 
 **[Live Demo: project-pollyglot.vercel.app](https://project-pollyglot.vercel.app/){:target="_blank" rel="noopener noreferrer"}**
 
@@ -54,17 +54,10 @@ Beyond the core implementation, I explored OpenAI's ecosystem including their [F
 
 ![Pollyglot Language Learning Interface](/assets/project-pollyglot-demo.png)
 
-AI-powered language learning application that helps users practice French through interactive translation and conversation. Built with React and powered by OpenAI's GPT models, featuring advanced few-shot prompt engineering for consistent, encouraging responses from a patient French instructor persona.
-
-**Key Features**:
-- **Real-time Translation**: Instant French language assistance and explanations
-- **Advanced Prompt Engineering**: Few-shot prompting with consistent instructor personality
-- **Clean Interface**: Minimalist design focused on learning experience
-- **Responsive Design**: Works seamlessly across all devices
-- **Modern Architecture**: Full-stack React/Node.js implementation with a Cloudflare Worker option
+AI-powered language learning application that helps users practice 12 languages through interactive translation and conversation. Built with React and powered by OpenAI's GPT models, featuring advanced few-shot prompt engineering for consistent, encouraging responses from a patient instructor persona.
 
 #### **[Live Demo](https://project-pollyglot.vercel.app/){:target="_blank" rel="noopener noreferrer"}**
-- Practice French with an AI language instructor
+- Practice 12 languages with an AI language instructor
 - Get instant translations and cultural context
 - Experience beginner-friendly explanations
 - No registration required
