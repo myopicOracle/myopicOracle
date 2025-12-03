@@ -1,207 +1,36 @@
 # 👋 <span style="color: #FFF2E0;">Hi</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלום&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;こんにちは<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">I'm</span>&nbsp;&nbsp;&nbsp;Soy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אני&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我叫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;私の名前は<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">Gary</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גארי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏戈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ゲイリー
 
-I started my career in finance, but made the switch to software after realizing I wanted to build things, not just analyze them. Since then, I’ve picked up skills in full-stack development, AI engineering, data pipelines, and cloud infrastructure. 
-
-I'm interested in contributing to open-source projects and early-stage startups.
-
-*Fun Fact: "In 2013, only 28 babies born in England and Wales were named Gary, leading Garys to be labeled a "dying breed" ~ [Wikipedia](https://en.wikipedia.org/wiki/Gary_(given_name)#cite_note-8)*
-
-<br>
-
-
-## **Table of Contents**
-
-- **[Tech Stack](#tech-stack)**
-- **[Bootcamps & Certificates](#bootcamps--certificates)**  
-  - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner-clf-c02)  •  [The Odin Project](#the-odin-project---full-stack-javascript-track)  •  [App Brewery Bootcamp](#the-complete-full-stack-web-development-bootcamp)  •  [IBM Data Analyst Professional](#ibm-data-analyst-professional-certification)  •  [Microsoft Azure AI-900](#microsoft-azure-ai-900)  
-- **[Pollyglot - AI Language Learning Assistant](#pollyglot---ai-language-learning-assistant)**  
-  - [Live Demo](https://project-pollyglot.vercel.app/)  •  [Repo](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/)
-- **[3D Metaverse with Fully Decentralized Authentication](#3d-metaverse-with-fully-decentralized-authentication)**  
-  - [Live Demo](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app)  •  [Repo](https://github.com/myopicOracle/myopic-metaverse)
-- **[End-to-End AI Infrastructure: Deploy Local LLMs Remotely](#end-to-end-ai-infrastructure-deploy-local-llms-remotely)**  
-  - [Handling Ollama's Raw Bytes Stream](#handling-raw-bytes-stream-from-ollama-api-endpoint)  •  [Walkthroughs](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)  •  [Repo](https://github.com/myopicOracle/run-local-llm-with-gui)
-- **[The Simple Library](#the-simple-library)**  
-  - [Live Demo](https://myopicoracle.github.io/prototypes-library/)  •  [Repo](https://github.com/myopicOracle/prototypes-library)
-- **[Resume Builder React App](#resume-builder-react-app)**  
-  - [Live Demo](https://simple-resume-app.netlify.app/)  •  [Repo](https://github.com/myopicOracle/resume-builder)
-- **[Calcutron 8000 Calculator](#calcutron-8000-calculator)**  
-  - [Live Demo](https://calcutron-8000.netlify.app/)  •  [Repo](https://github.com/myopicOracle/calcutron-8000)
-- **[Let's Connect](#lets-connect)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xiagary) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@garyxia) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mortiest.mort) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@myopicOracle) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garebearcodes@gmail.com) 
 
 <br>
 
+"What a  privilege to be tired from work you once begged the universe for." 
 
-## **Tech Stack**
+"What a privilege to be challenged by a life you created on purpose." 
 
-### **Languages/Runtimes:** 
-- JavaScript / Node.js  
-- Python / Flask
-- SQL / R  
-
-### **Frameworks/Tools:** 
-- React / Vite / Tailwind / Vercel
-- Express / FastAPI / Render
-- PostgreSQL / MySQL / SQLite
-- Firebase / Supabase / Drizzle ORM / OAuth
-- NumPy / Pandas / Scikit-learn
-- Matplotlib / Seaborn
-
-### **AI/ML:** 
-- OpenAI API / Vercel AI SDK / Gemini API
-- Cloudflare (Workers, AI Gateway)
-- Pinecone / Supabase Vector DB / Bedrock Knowledge Base
-- Bedrock / Prompt Engineering / Steering / Guardrails
-- LM Studio / Ollama
-
-### **Blockchain/Web3**
-- Solidity / Smart Contracts
-- Web3.js / Ethereum  
-
-## **Currently Exploring:** 
-- SageMaker / Fine-Tuning / Model Deployment / Containerization 
-- Langchain / FastMCP / Bedrock Agents
-- Cloudflare (Durable Objects, MCP Server)
-- FastMCP
-- TypeScript / Next.js  
-- Golang  
-- Svelte  
+"What a privilege to outgrow things that you used to settle for." 
 
 <br>
 
-
-## **Bootcamps & Certificates**
-
-### **Completed:**   
-##### **[AWS Certified Cloud Practitioner [CLF-C02]](https://cp.certmetrics.com/amazon/en/public/verify/credential/56fe8b6f85d54ddf8a57b2697566121c) (Aug 2025)** 
-- Validates foundational knowledge of key services for compute (EC2, Lambda), storage (S3, Aurora, RDS, DynamoDB, EBS), AI/ML (SageMaker, Bedrock), cloud development (AWS SDK, CodePipeline), networking (CloudFront, VPC), containerization (Fargate, ECS, EKS), security (IAM, WAF, Shield, GuardDuty, Inspector), and governance (CloudWatch, CloudFormation). 
-
-##### **[The Odin Project - Full Stack Javascript Track](https://www.theodinproject.com/) (Nov 2024 - Jun 2025)** 
-- A program and community that needs no introduction, covering HTML, CSS, JavaScript, React.js, Node.js, Express.js, PostgreSQL, and various tooling/libraries, in addition to self-guided projects, modern development best practices, and plenty of practice learning how to learn through docs and asking good questions. 
-
-##### **[The Complete Full Stack Web Development Bootcamp](http://ude.my/UC-118e5203-a255-4989-81d8-38cb83fa120) (May 2024 - Jun 2025)**   
-- Full-stack web development with tools like HTML5, CSS3, JavaScript ES6, React.js, Node.js, Express.js, PostgreSQL, and Web3 technologies.
-
-##### **[IBM Data Analyst Professional Certification](https://coursera.org/verify/professional-cert/2DDH2VYKB4ET) (Jan 2025 - May 2025)** 
-- 11 course Professional specialization awarded for proficiency in Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, with hands-on experience in data manipulation, visualization, and presenting insights from real-world datasets.
-
-##### **[Microsoft Azure AI-900](https://learn.microsoft.com/api/credentials/share/en-us/TheGaryXia/DE5DD36CDAB485C6?sharingId=BB48E30F2DE03E0D) (Apr 2025 - Apr 2025)** 
-- Awarded for demonstrating proficiency in fundamental machine learning, computer vision, natural language processing, and generative AI concepts, with hands-on experience using Azure AI services like Cognitive Services and Vision Studio to implement no-code AI solutions for real-world workloads.
-   
-### **In-Progress:**  
-- **Datacamp - Associate AI Engineer for Developers** (August 2025 - present) 
-- **AWS Cloud Solutions Architect - Associate [SAA-C03]** (Jun 2025 - present)     
-- **Scrimba - The AI Engineer Path** (Jul 2025 - present)
-
-### **Want to Earn:** 
-- AWS Certified Developer Associate [DVA-C02]
-- Certified Kubernetes Application Developer (CKAD)
-- AWS Certified Machine Learning Engineer - Associate [MLA-C01]
+***My self-taught journey: [www.garyxia.com](https://www.garyxia.com/)***
 
 <br>
 
-
-## **Pollyglot - AI Language Learning Assistant**
-*Interactive language tutor powered by OpenAI*
-
-![Pollyglot Language Learning Interface](/assets/project-pollyglot-demo.png) 
-#### **[Live Demo: project-pollyglot.vercel.app](https://project-pollyglot.vercel.app/)**
-
-Independent final project in Scrimba's ["Intro to AI Engineering"](https://scrimba.com/the-ai-engineer-path-c02v) course - specifically OpenAI API integration, zero-shot vs few-shot prompting, and parameter tuning (temperature, stop-sequences, frequency/presence penalties). 
-
-Cloudflare workers to eliminate cold starts and reduce latency. System few-shot to balance effective responses with token usage. AI Gateway for rate limiting and surge control.
-
-**Tech:** React, Vite, Node.js, Express, Cloudflare Workers, OpenAI API  
-#### **[Project Repo](https://github.com/myopicOracle/ai-eng-build-with-me/tree/main/project-pollyglot/)**
+| Stack    |             |
+|----------|-------------|
+| <div style="padding: 10px 0;">**Languages & Frameworks**</div> | <div style="padding: 10px 0;">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</div> |
+| <div style="padding: 10px 0;">**Dev Tools & Deployment**</div> | <div style="padding: 10px 0;">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</div> |
 
 <br>
 
-
-## **3D Metaverse with Fully Decentralized Authentication**
-
-![Myopic Metaverse 3D Environment Demo](/assets/myopicmetaverse-demo.gif)  
-#### **[Live Demo - Click "Don't Have MetaMask Wallet?" To Bypass SIWE Auth](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app)**
-
-Sign-In With Ethereum (SIWE) authentication via MetaMask enables users to have greater control over their data. An interesting implication that sets the stage for digital ownership backed by trustless enforcement mechanisms. 
-
-**3D environment adapted from Claude Artifact ["Anthropic Office Simulator"](https://claude.ai/public/artifacts/c33e575f-5228-4058-aa78-a998bad7ec71)**, which uses HTML/JS and mocked AI responses. Adapted to use React.js and integrated Gemini API for real chatbot and NPC interactions.
-
-**Tech:** Three.js, Ethereum, Web3.js, Google Gemini API, Node.js  
-#### **[Project Repo](https://github.com/myopicOracle/myopic-metaverse)**
-
-<br>
+| Stats |           |
+|-------|-----------|
+| ![](https://github-readme-stats.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
 
 
-## **End-to-End AI Infrastructure: Deploy Local LLMs Remotely**
-
-Complete solution for running large language models locally using Ollama, featuring custom Node.js server architecture, intuitive frontend GUI, and global deployment via ngrok and Vercel. This project demonstrates the full AI development lifecycle from local setup to production deployment.
-
-### **Handling Raw Bytes Stream from Ollama API Endpoint**
-![Handling Raw Bytes Stream from Ollama API](/assets/ollama_thumbnail_2.gif)  
-[Watch on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)
-
-**Tech Stack:** Node.js, Express, Ollama API, ngrok, Vercel  
-[Project Repo](https://github.com/myopicOracle/run-local-llm-with-gui) • [Video Walkthroughs on YouTube](https://youtu.be/YrV2Q_hCtw8?si=4jOrmUvKViu6QonI&t=12)
-
-<br>
-
-
-## **The Simple Library** 
-*Constructors & Prototypes - 1st JavaScript Project (Dec. 2024)*
-
-Built with vanilla JavaScript, this project was my first taste of OOP, getting some reps in for prototypal-inheritance, JS classes, constructor functions, DOM manipulation, and local storage.
-
-#### **Live Demo**
-
-[![Library App Screenshot](/assets/simple-library-v2.png)](https://myopicoracle.github.io/prototypes-library/)
-
-➡️ [Try the Live Demo](https://myopicoracle.github.io/prototypes-library/)
-
-
-#### **What I Learned**
-
-- Object-oriented programming with JavaScript classes and prototypes
-- DOM manipulation and event handling
-- Form validation and data persistence
-- Responsive web design principles
-- Code organization and project structure
-
-[Project Repo](https://github.com/myopicOracle/prototypes-library)
-
-
-<br>
-
-## **Resume Builder React App**
-*Interactive resume builder with persistent state*
-
-![Interactive Resume Builder Interface](/assets/simple-resume-app.png)
-
-Clean, functional resume builder demonstrating React fundamentals. Features component-based architecture, form state management with hooks, and edit/display mode switching. Built with DRY principles and reusable components.
-
-**Tech:** React, JavaScript, CSS  
-[🔗 Live Demo](https://simple-resume-app.netlify.app/) • [Project Repo](https://github.com/myopicOracle/resume-builder)
-
-
-<br>
-
-## **Calcutron 8000 Calculator**
-*Vanilla JavaScript calculator with elegant UX*
-
-![Calcutron 8000 Calculator Interface](/assets/calcutron-8000-v1.png)
-
-Early project from *The Odin Project* built from scratch using vanilla JavaScript. Features proper operation logic and real-time display updates.
-
-**Tech:** JavaScript, HTML/CSS
-[🔗 Live Demo](https://calcutron-8000.netlify.app/) • [Repository](https://github.com/myopicOracle/calcutron-8000)
-
-<br>
-
-
-## **Let's Connect**
-
-Always up for collaborating on interesting projects or discussing the latest in AI and full-stack development.
-
-[💼 LinkedIn](https://linkedin.com/in/xiagary)  
-[📧 Email](mailto:garebearcodes@gmail.com)  
-[🐙 GitHub](https://github.com/myopicOracle)
-
-> *Last updated: August 28, 2025*
+---
+*Awesome visuals thanks to: [**GPRM**](https://gprm.itsvg.in) and [**Anurag's**](https://github.com/anuraghazra) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Check them out!*
