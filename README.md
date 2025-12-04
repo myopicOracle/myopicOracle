@@ -8,11 +8,9 @@
 
 <br>
 
-"What a  privilege to be tired from work you once begged the universe for." 
+I started my career in finance, but made the switch to software after realizing I wanted to build things, not just analyze them. Since then, I’ve picked up skills in full-stack development, AI engineering, data pipelines, and cloud infrastructure.
 
-"What a privilege to be challenged by a life you created on purpose." 
-
-"What a privilege to outgrow things that you used to settle for." 
+Interested in contributing to open-source projects, startups, and any opportunities where I can write code.
 
 <br>
 
