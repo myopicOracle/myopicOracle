@@ -1,4 +1,4 @@
-# 👋 <span style="color: #FFF2E0;">Hi</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלום&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;こんにちは<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">I'm</span>&nbsp;&nbsp;&nbsp;Soy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אני&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我叫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;私の名前は<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFF2E0;">Gary</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גארי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏戈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ゲイリー
+# *System.out.println(* "Hi 👋 I'm Gary" *);*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xiagary) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@garyxia) 
@@ -10,7 +10,7 @@
 
 I started my career in finance, but made the switch to software after realizing I wanted to build things, not just analyze them. Since then, I’ve picked up skills in full-stack development, AI engineering, data pipelines, and cloud infrastructure.
 
-Interested in contributing to open-source projects, startups, and any opportunities where I can write code.
+Interested in contributing to open-source projects, startups, and any opportunities to write code.
 
 <br>
 
