@@ -27,8 +27,7 @@ Interested in contributing to open-source projects, startups, and any opportunit
 
 | Stats |           |
 |-------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
-
+| <br/> ![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true) | <br/> ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
 
 ---
 *Awesome visuals thanks to: [**GPRM**](https://gprm.itsvg.in) and [**Anurag's**](https://github.com/anuraghazra) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Check them out!*

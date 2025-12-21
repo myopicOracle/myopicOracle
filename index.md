@@ -17,11 +17,9 @@ layout: default
 
 <br>
 
-"What a  privilege to be tired from work you once begged the universe for." 
+I started my career in finance, but made the switch to software after realizing I wanted to build things, not just analyze them. Since then, I’ve picked up skills in full-stack development, AI engineering, data pipelines, and cloud infrastructure.
 
-"What a privilege to be challenged by a life you created on purpose." 
-
-"What a privilege to outgrow things that you used to settle for." 
+Interested in contributing to open-source projects, startups, and any opportunities to write code.
 
 <br>
 
@@ -38,8 +36,7 @@ layout: default
 
 | Stats |           |
 |-------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=myopicOracle&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
-
+| <br/> ![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true) | <br/> ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
 
 ---
 *Awesome visuals thanks to: [**GPRM**](https://gprm.itsvg.in) and [**Anurag's**](https://github.com/anuraghazra) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Check them out!*
