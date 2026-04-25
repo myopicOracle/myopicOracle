@@ -14,7 +14,7 @@ Interested in contributing to open-source projects, startups, and any opportunit
 
 <br>
 
-***My self-taught journey: [www.garyxia.com](https://www.garyxia.com/)***
+*My self-taught journey: [**www.garyxia.com**](https://www.garyxia.com/)* &nbsp; | &nbsp; *Currently building: [**Raisin.IDE**](https://github.com/Praevisio-Labs/raisin-ide)*
 
 <br>
 
@@ -33,7 +33,7 @@ Interested in contributing to open-source projects, startups, and any opportunit
 
 | Stats |           |
 |-------|-----------|
-| <br/> ![](https://nirzak-streak-stats.vercel.app/?user=myopicOracle&theme=tokyonight&hide_border=true) | <br/> ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
+| <br/> ![](https://streak-stats.demolab.com/?user=myopicOracle&theme=tokyonight&hide_border=true) | <br/> ![](https://github-readme-stats-fork-silk.vercel.app/api?username=myopicOracle&theme=tokyonight&hide_border=true) |
 
 ---
 *Awesome visuals thanks to: [**GPRM**](https://gprm.itsvg.in) and [**Anurag's**](https://github.com/anuraghazra) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Check them out!*
