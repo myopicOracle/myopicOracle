@@ -27,9 +27,9 @@ Interested in contributing to open-source projects, startups, and any opportunit
 
 <br>
 
-| Certifications |             |
-|----------------|-------------|
-| <div style="padding: 10px 0;">**AWS**</div> | <div style="padding: 10px 0;">[![AWS Certified Machine Learning Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0dd2b2f70c224e33bf2f4d1d26047566) [![AWS Certified Machine Learning Engineer Associate](https://img.shields.io/badge/AWS_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/4047a3e1d10c429cb10bfc7332308396) [![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/6d583711a1164083a99ab8aa5ddc0269)</div> |
+**AWS Certified** 
+
+[![AWS Certified Machine Learning Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0dd2b2f70c224e33bf2f4d1d26047566) [![AWS Certified Machine Learning Engineer Associate](https://img.shields.io/badge/AWS_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/4047a3e1d10c429cb10bfc7332308396) [![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/6d583711a1164083a99ab8aa5ddc0269)
 
 <br>
 
