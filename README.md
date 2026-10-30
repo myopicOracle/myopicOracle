@@ -8,23 +8,25 @@
 
 <br>
 
-I started teaching myself to code by tapping away on a mobile app (Mimo) on the train to work. Pretty soon I was spending my weekends making progress on The Odin Project. Fast forward a couple of years, and I made the leap to go back to school for CS. Life's too short to not pursue what you love, methinks. 
-
-Interested in contributing to open-source projects, startups, and any opportunities to write code.
+I started teaching myself to code by tapping away on a mobile app (Mimo) on the train to work. Pretty soon I was spending my weekends working through The Odin Project. Fast forward a couple of years, and I made the leap to go back to school for CS. Life's too short to not pursue what you love, methinks. 
 
 Prev: I graduated from Northwestern in 2020 and also attended Georgetown's School of Foreign Service. Post-graduation, I was involved in capital markets fundraising and M&A advisory for public companies, as well as pitching and fundraising for early stage startups. 
 
-*My self-taught journey: [**www.garyxia.com**](https://www.garyxia.com/)*
-
-<br>
+.
 
 Lately, I've been thinking a lot about how AI tools fall short for people learning to code.
 
-You can read my thesis [here](https://medium.com/stackademic/rethinking-coding-education-for-the-ai-era-054b40a350d5).
+You can read my [thesis here](https://medium.com/stackademic/rethinking-coding-education-for-the-ai-era-054b40a350d5).
 
 If you've been thinking along the same lines, drop me a note! 
 
-*Building: [**Codalect**](https://www.codalect.com/) [(Repo)](https://github.com/Praevisio-Labs/codalect)*
+*Building: [**Codalect.com**](https://www.codalect.com/) · [(Repo)](https://github.com/Praevisio-Labs/codalect)*
+
+.
+
+Interested in contributing to open-source projects, startups, and any opportunities to write code.
+
+*My self-taught journey: [www.garyxia.com](https://www.garyxia.com/)*
 
 <br>
 
