@@ -1,26 +1,30 @@
 # *System.out.println(* "Hi 👋 I'm Gary" *);*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xiagary) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@garyxia) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@garyxia) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mortiest.mort) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@myopicOracle) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garebearcodes@gmail.com) 
 
 <br>
 
-[![Raisin IDE](https://img.shields.io/badge/Raisin.IDE-Live%20Demo-000000?style=for-the-badge)](https://raisin-ide.vercel.app/)
-
-<br>
-
-I started my career in finance, but made the switch to software after realizing I wanted to build things, not just analyze them. Since then, I’ve picked up skills in full-stack development, AI engineering, data pipelines, and cloud infrastructure.
+I started teaching myself to code by tapping away on a mobile app (Mimo) on the train to work. Pretty soon I was spending my weekends making progress on The Odin Project. Fast forward a couple of years, and I made the leap to go back to school for CS. Life's too short to not pursue what you love, methinks. 
 
 Interested in contributing to open-source projects, startups, and any opportunities to write code.
 
-<br>
+Prev: I graduated from Northwestern in 2020 and also attended Georgetown's School of Foreign Service. Post-graduation, I was involved in capital markets fundraising and M&A advisory for public companies, as well as pitching and fundraising for early stage startups. 
 
 *My self-taught journey: [**www.garyxia.com**](https://www.garyxia.com/)*
 
-*Building: [**Raisin.IDE**](https://raisin-ide.vercel.app/)*
+<br>
+
+Lately, I've been thinking a lot about how AI tools fall short for people learning to code.
+
+You can read my thesis [here](https://medium.com/stackademic/rethinking-coding-education-for-the-ai-era-054b40a350d5).
+
+If you've been thinking along the same lines, drop me a note! 
+
+*Building: [**Codalect**](https://www.codalect.com/) [(Repo)](https://github.com/Praevisio-Labs/codalect)*
 
 <br>
 
